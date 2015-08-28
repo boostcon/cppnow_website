@@ -1,0 +1,55 @@
+### Site info:
+title: cppcon
+tagline: Cppcon 2016
+author: Ciere, Inc.
+email: admin@ciere.com
+description: "Cppcon 2016" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+keywords: ""
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+locale: en_US
+
+### Personal info and site tools info:
+twitter_username: ""
+github_username: ""
+disqus_shortname: 
+favicon:     "/images/favicon.ico"
+aboutme: All about the cpp. # these are shown on aboutme-sidebar.
+aboutme_photo: "" # your photo.
+
+
+### Site setting:
+ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown when ShowContactInfo == True
+default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
+default_locale: "en" # blog sidebar language set, only include: English(en) and Chinese (cn)
+
+locales:
+    en:
+      Aboutme: "About Me"
+      Archives: "Archives"
+      Blogroll: "Blogroll"
+      Categories: "Categories"
+      Copyright_Notice: "Copyright Notice"
+      Recent_Posts: "Recent Posts"
+      Tags: "Tags"
+      Previous: "Older"
+      Next: "Newer"
+      PostedInCategories: "Posted in"
+      Taggedwith: "and tagged"  
+      PostDate: "on "
+
+### your Blogroll info, only name can shown on the page.
+
+Blogroll:
+    - name: ""
+      href: ""
+      title: ""
+    - name: ""
+      href: ""
+      title: ""
+
+
+### Build settings
+markdown: kramdown
+highlighter: pygments
+paginate: 5
