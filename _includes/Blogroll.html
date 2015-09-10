@@ -1,7 +1,11 @@
-<div class="sidebar-module">
-  <h4>{{ site.locales[site.default_locale].Blogroll }}</h4>
-  {% for friend in site.Blogroll %}
-  <li><a href="{{ friend.href }}" title="{{ friend.title }}">{{ friend.name }}</a></li>
+<div class="sidebar-module" style="text-align:right;">
+    <h4>Announcements</h4>
+      {% for post in paginator.posts %}
+          {% for tag in post.tags %}
+              {% if tag == "announcements"%}
+                    <div><a href="{{ post.href }}" title="{{ post.title }}">{{ post.title }}</a></div>
+              {% endif %}
+          {% endfor %}
   {% endfor %}
 </div>
 

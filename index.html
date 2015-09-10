@@ -8,10 +8,6 @@ layout: default
     {% for post in paginator.posts %}
   
     <header class="post-header">
-      <h1 itemprop="name" class="post-title">
-        <a itemprop="url" class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h1>
-      <meta itemprop="keywords" content="{{ post.tags | join: ',' }}" />
       <p class="post-meta">
       {{ site.locales[site.default_locale].PostedInCategories }}
       {% for cat in post.categories %}
@@ -32,7 +28,9 @@ layout: default
     <article class="post-content" itemprop="articleBody">
       {{ post.content }}
     </article> <hr />
-    
+
+    <meta itemprop="keywords" content="{{ post.tags | join: ',' }}" />
+
     {% endfor %}
   
   </div>

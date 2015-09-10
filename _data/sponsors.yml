@@ -1,0 +1,26 @@
+sponsors:
+  categories:
+    - title: "Video Sponsor"
+      sponsors:
+        - href: "http://www.tripwire.com"
+          title: "Tripwire"
+          image: "tripwire.png"
+    - title: "Bronze Sponsor"
+      sponsors:
+        - href: "http://eventbrite.com"
+          title: "Eventbrite"
+          image: "eventbrite.png"
+
+broughtby:
+  sponsors:
+    - title: "Software Conservatory"
+      href: "http://www.sfconservancy.com"
+      image: "softwarecon.png"
+    - title: "Boost"
+      href: "http://www.boost.org"
+      image: "boost.png"
+    - title: "ACM"
+      href: "http://www.acm.com"
+      image: "acm.png"
+    
+
