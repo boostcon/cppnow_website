@@ -1,0 +1,42 @@
+---
+layout: default
+permalink: /student_vol_program/
+---
+
+<style>
+    .student {
+        text-align:center;
+        background:#f1f1f1;
+        padding:10px 10px 10px 10px;
+    }
+    .student img {
+        display:inline-block;   
+        align:center;
+    }
+</style>
+
+<h3>Student/Volunteer Program</h3>
+
+<br />
+
+<p> The C++Now Student/Volunteer program was started in 2013 in an effort to encourage student involvement in the C++Now conference and the C++ community. Each year, the conference helps a small group of young programmers attend the conference. In exchange, the students help the C++Now staff in running the conference. Volunteers assist with various on-site tasks, such as recording sessions, escorting keynote speakers and setting up the conference picnic. They are able to attend most sessions. Volunteers receive a waiver of their registration fees and stipends for travel-related expenses may be provided. </p>
+
+<br />
+
+<p>Applications will be accepted from February 5th to March 5th, 2015. Application decisions will be sent out on March 18th, 2015.</p>
+
+<br />
+<h3>2013 Volunteer Stories</h3>
+
+<div>
+{% for post in site.posts %}
+  {% for tag in post.tags %}
+    {% if tag == "student" %}
+      <div class="student">
+          {{post.content}}
+      </div>
+      <br />
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+</div>

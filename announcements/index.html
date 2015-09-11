@@ -3,9 +3,12 @@ layout: default
 ---
 
 <div class="home">
+
+  <h3>Announcements</h3>
+
   <div class="post" itemscope itemtype="http://schema.org/BlogPosting" >
     
-    {% for post in paginator.posts %}
+    {% for post in site.posts %}
   
       {% for tag in post.tags %}
           {% if tag == "announcements" %}

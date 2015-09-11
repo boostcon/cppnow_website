@@ -1,10 +1,11 @@
 <div class="sidebar-module" style="text-align:right;">
     <h4>Announcements</h4>
-      {% for post in paginator.posts %}
+      {% for post in site.posts %}
           {% for tag in post.tags %}
               {% if tag == "announcements"%}
                     <div><a href="{{ post.href }}" title="{{ post.title }}">{{ post.title }}</a></div>
               {% endif %}
+
           {% endfor %}
   {% endfor %}
 </div>

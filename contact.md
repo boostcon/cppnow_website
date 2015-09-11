@@ -5,6 +5,8 @@ permalink: /contact/
 
 ### Contact ###  
 
+<br />
+
 Conference Organizers: [organizers@cppnow.org](mailto:organizers@cppnow.org)
 
 Program Committee: [program@cppnow.org](mailto:program@cppnow.org)

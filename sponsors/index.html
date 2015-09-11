@@ -1,0 +1,34 @@
+---
+layout: default
+permalink: /sponsors/
+---
+
+<br />
+<div style="text-align:center;">
+
+  {% for category in site.data.sponsors.sponsors.categories %}
+    <h3>{{ category.title }}</h3>
+    
+    {% for sponsor in category.sponsors %}
+      <div>
+          <a href="{{sponsor.href}}" target="_blank">
+              <img src="/images/{{sponsor.image-lrg}}" alt="{{sponsor.title}}"/>
+          </a>
+      </div>
+    {% endfor %}
+    <br />
+  {% endfor %}
+    
+  <h3>Brought to you by</h3>
+
+  {% for broughtby in site.data.sponsors.broughtby.sponsors %}
+    <div>
+        <a href="{{broughtby.href}}" target="_blank">
+            <img src="/images/{{broughtby.image-lrg}}" alt="{{broughtby.title}}"/>
+        </a>
+    </div>
+    <br />
+  {% endfor %}
+
+  <p>For a copy of the C++Now Sponsorship Prospectus contact sponsorship@cppnow.org</p>
+</div>
