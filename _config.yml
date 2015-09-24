@@ -1,9 +1,9 @@
 ### Site info:
-title: cppcon
-tagline: Cppcon 2016
+title: cppnow
+tagline: Cppnow 2016
 author: Ciere, Inc.
 email: admin@ciere.com
-description: "Cppcon 2016" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+description: "Cppnow 2016" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site

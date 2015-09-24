@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /ride_share/
+comment_title: ride-share
 ---
 
 ### Ride Share
