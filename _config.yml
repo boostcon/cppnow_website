@@ -48,6 +48,7 @@ Blogroll:
       href: ""
       title: ""
 
+gems : [jekyll-paginate]
 
 ### Build settings
 markdown: kramdown
