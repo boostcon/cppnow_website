@@ -5,9 +5,7 @@ layout: default
 <div class="home">
   <div class="post" itemscope itemtype="http://schema.org/BlogPosting" >
 
-    CI Test!
-    
-    {% for post in paginator.posts %}
+    {% for post in site.categories[site.current_year] %}
   
       {% for tag in post.tags %}
           {% if tag == "announcements" %}

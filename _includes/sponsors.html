@@ -1,6 +1,6 @@
 <div class="sidebar-module" style="text-align:center;">
+    {% for category in site.data[site.current_year].sponsors.sponsors.categories %}
 
-    {% for category in site.data.sponsors.sponsors.categories %}
       <h4>{{ category.title }}</h4>
     
       {% for sponsor in category.sponsors %}

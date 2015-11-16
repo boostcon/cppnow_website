@@ -54,3 +54,10 @@ gems : [jekyll-paginate]
 markdown: kramdown
 highlighter: pygments
 paginate: 5
+
+
+### Yearly Configuration ###
+
+# The conference year to be home
+current_year: may-2016
+current_year_test: foo
