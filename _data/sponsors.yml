@@ -12,6 +12,10 @@ sponsors:
           title: "Eventbrite"
           image: "eventbrite.png"
           image-lrg: "eventbrite_lrg.png"
+        - href: "http://ciere.com"
+          title: "Ciere Consulting"
+          image: "eventbrite.png"
+          image-lrg: "eventbrite_lrg.png"
 
 broughtby:
   sponsors:
