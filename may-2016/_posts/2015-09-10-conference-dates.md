@@ -25,7 +25,5 @@ categories:
 
 ### C++Now 2016
 C++Now 2015 wrapped up with the announcement of C++Now 2016. The dates will be May 9, 2016 through May 14, 2016 and the location will be the Aspen Center for Physics in Aspen, Colorado.
-
-Boo!
 <br />
 
