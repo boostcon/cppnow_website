@@ -33,6 +33,7 @@ As a multi-paradigm language, C++ is a melting pot with the most compelling ide
 At C++Now 2016 we would like to focus on the now established C++11 and C++14 standards and how those standards shape C++’s future. However, by no means is this intended to restrict the topics of proposals we hope to see. Any other topic related to C++, as described below, is suitable for submission.
 
 ![Aspen](/images/ZoeticaEbb/Aspen2015_ZoeticaEbb19.jpg "Photograph by Zoetica Ebb. Used with permission.")
+_Photograph by Zoetica Ebb. Used with permission._
 
 ###Important Dates
 Proposal submissions due: December 20th, 2015 
