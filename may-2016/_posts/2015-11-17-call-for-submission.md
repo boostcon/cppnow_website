@@ -21,8 +21,6 @@ categories:
 </style>
 
 
-![Aspen](/images/ZoeticaEbb/Aspen2015_ZoeticaEbb19.jpg "Photograph by Zoetica Ebb. Used with permission.")
-
 ## Call for Submissions
 We invite you to submit session proposals to the 5th annual C++Now Conference (tenth annual BoostCon): C++Now 2015 (Aspen CO, USA, May 9 – 14, 2016).
 
@@ -33,6 +31,8 @@ The C++Now Conference is dedicated to discussion and education about C++, an op
 As a multi-paradigm language, C++ is a melting pot with the most compelling ideas from other programming communities blending in powerful ways. Historically, some of the most popular sessions at C++Now have highlighted these concepts, from DSLs to functional programming to transactional memory and more.  Bring your C#, Python, Ruby or Haskell influences to bear in an environment that will broaden their exposure.
 
 At C++Now 2016 we would like to focus on the now established C++11 and C++14 standards and how those standards shape C++’s future. However, by no means is this intended to restrict the topics of proposals we hope to see. Any other topic related to C++, as described below, is suitable for submission.
+
+![Aspen](/images/ZoeticaEbb/Aspen2015_ZoeticaEbb19.jpg "Photograph by Zoetica Ebb. Used with permission.")
 
 ###Important Dates
 Proposal submissions due: December 20th, 2015 
