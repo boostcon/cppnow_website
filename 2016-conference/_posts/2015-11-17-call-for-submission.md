@@ -1,4 +1,8 @@
 ---
+layout: post
+title: Call For Submission
+excerpt_separator: <!--more-->
+
 tags:
   - announcements
   
@@ -20,11 +24,11 @@ categories:
     }
 </style>
 
-
-## Call for Submissions
 We invite you to submit session proposals to the 5th annual C++Now Conference (tenth annual BoostCon): C++Now 2015 (Aspen CO, USA, May 9 – 14, 2016).
 
 Building upon the resounding success of previous BoostCon and C++Now conferences, C++Now 2016 will present leading speakers from the whole C++ community.
+
+<!--more-->
 
 The C++Now Conference is dedicated to discussion and education about C++, an open and free language and standard.  Our Conference will focus on discussion and education about open source software usage and developments in the C++ developer and user community. To reflect the breadth of the C++ and Boost communities, the conference includes sessions aimed at three constituencies: C++ and Boost end-users, hard-core library and tool developers, and researchers pushing the boundaries of computation. The program fosters interaction and engagement within and across those groups, with an emphasis on discussion.
 
@@ -74,7 +78,7 @@ Tool Vendor Presentations: We actively encourage tool vendors and ISP’s to sub
 Other formats may also be of interest. Don’t hold back a proposal just because it doesn’t fit into a pigeonhole.
 
 ###Submitting a Proposal
-All submissions should be made through our submission page:  .
+All submissions should be made through our <a href="/submission/">submission page: here</a>.
 
 Standard sessions are 90 minutes. You may submit a proposal for fractions or multiples of 90-minutes. Fractional proposals will be grouped into 90 minute sessions. Longer sessions, such as tutorials and classes, will be assigned 90 minute, three hour (i.e. half day), or six hour (i.e. full day) time slots.
 

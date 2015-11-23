@@ -15,7 +15,7 @@
     
     <h4>Brought to you by</h4>
 
-    {% for broughtby in site.data.sponsors.broughtby.sponsors %}
+    {% for broughtby in site.data[site.current_year].sponsors.broughtby.sponsors %}
       <div>
           <a href="{{broughtby.href}}" target="_blank">
               <img src="/images/{{broughtby.image}}" alt="{{broughtby.title}}" width="150"/>

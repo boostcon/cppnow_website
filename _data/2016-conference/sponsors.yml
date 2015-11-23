@@ -6,6 +6,7 @@ sponsors:
           title: "Tripwire"
           image: "tripwire.png"
           image-lrg: "tripwire_lrg.png"
+
     - title: "Bronze Sponsor"
       sponsors:
         - href: "http://eventbrite.com"
@@ -14,8 +15,8 @@ sponsors:
           image-lrg: "eventbrite_lrg.png"
         - href: "http://ciere.com"
           title: "Ciere Consulting"
-          image: "eventbrite.png"
-          image-lrg: "eventbrite_lrg.png"
+          image: "ciere.png"
+          image-lrg: "ciere.png"
 
 broughtby:
   sponsors:
