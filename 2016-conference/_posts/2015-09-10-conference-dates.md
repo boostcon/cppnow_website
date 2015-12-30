@@ -1,4 +1,8 @@
 ---
+layout: post
+title: Conference Dates
+excerpt_separator: <!--more-->
+
 tags:
   - announcements
   
