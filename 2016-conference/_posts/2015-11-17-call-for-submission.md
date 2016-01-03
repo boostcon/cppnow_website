@@ -40,9 +40,9 @@ At C++Now 2016 we would like to focus on the now established C++11 and C++14 sta
 _Photograph by Zoetica Ebb. Used with permission._
 
 ###Important Dates
-Proposal submissions due: December 20th, 2015 
-Proposal decisions sent: February 15th, 2016 
-Program online: March 7th, 2016
+Proposal submissions due: January 29th (Note this date cannot and will not be extended.)
+Proposal decisions sent: February 22nd 
+Program online: March 14th
 
 ###Best Presentation Awards
 We know how much effort it takes to prepare talks for our conference. For this reason attendees vote on the best presentations of the conference. Each winner will receive a commemorative plaque and announcement on the C++Now website.
