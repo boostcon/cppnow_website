@@ -40,42 +40,47 @@ At C++Now 2016 we would like to focus on the now established C++11 and C++14 sta
 _Photograph by Zoetica Ebb. Used with permission._
 
 ###Important Dates
-Proposal submissions due: January 29th (Note this date cannot and will not be extended.)
-Proposal decisions sent: February 22nd 
-Program online: March 14th
+
+| Proposal submissions due |   <strong>January 29th</strong> <em>(Note this date cannot and will not be extended.)</em> |
+| Proposal decisions sent | <strong>February 22nd</strong> |
+| Program online | <strong>March 14th</strong> |
 
 ###Best Presentation Awards
 We know how much effort it takes to prepare talks for our conference. For this reason attendees vote on the best presentations of the conference. Each winner will receive a commemorative plaque and announcement on the C++Now website.
 
 ###Session Topics
-Topics of interest include, but are not restricted to, the following
-C++11/14 and how it changes life for users and library writers 
-New directions and proposal for upcoming C++ standards 
-Concepts and generic programming 
-Designing for testability 
-Using specific Boost libraries in-depth 
-Extending or enhancing existing Boost libraries 
-Advanced implementation techniques used within Boost libraries 
-The design and/or the development process 
-Software development tools and their application to C++ and or Boost 
-Boost infrastructure topics such as build tools, website, testing 
-Any other topics likely to be of great interest to C++ developers 
-Tools for better developer productivity
 
-Interactive and collaborative sessions are encouraged, as this is the style of learning and participation that has proven most successful at such events. Sessions can be tutorial based, with an emphasis on interaction and participant involvement, or workshop based, whether hands-on programming or paper-based, discussion-driven collaborative work.
+Topics of interest include, but are not restricted to, the following:
+
+- C++11/14 and how it changes life for users and library writers 
+- New directions and proposal for upcoming C++ standards 
+- Concepts and generic programming 
+- Designing for testability 
+- Using specific Boost libraries in-depth 
+- Extending or enhancing existing Boost libraries 
+- Advanced implementation techniques used within Boost libraries 
+- The design and/or the development process 
+- Software development tools and their application to C++ and or Boost 
+- Boost infrastructure topics such as build tools, website, testing 
+- Any other topics likely to be of great interest to C++ developers 
+- Tools for better developer productivity
+
+Interactive and collaborative sessions are encouraged, as this is the style of learning and participation that has proven most successful at such events. Sessions can be tutorial based, with an emphasis on interaction and participant involvement, or workshop based, whether hands-on programming or paper-based, discussion-driven collaborative work.
+
 
 ###Session Formats
-Lectures focus on a practitioner’s ideas and experience with anything relevant to the C++ community.
 
-Panels feature three or four people presenting their ideas and experiences relating to C++’s relevant, controversial, emerging, or unresolved issues. Panels may be conducted in several ways, such as comparative, analytic, or historic.
+- _Lectures_ focus on a practitioner’s ideas and experience with anything relevant to the C++ community.
 
-Tutorials are sessions at which instructors teach conference participants specific skills or knowledge relevant to C++.
+- _Panels_ feature three or four people presenting their ideas and experiences relating to C++’s relevant, controversial, emerging, or unresolved issues.  Panels_ may be conducted in several ways, such as comparative, analytic, or historic.
 
-Workshops provide an active arena for advancements in C++-relevant topics. Workshops provide the opportunity for experienced practitioners to develop new ideas about a topic of common interest and experience.
+- _Tutorials_ are sessions at which instructors teach conference participants specific skills or knowledge relevant to C++.
 
-Tool Vendor Presentations: We actively encourage tool vendors and ISP’s to submit proposals for a special Tool Vendors Session Track aimed at products related to Boost and C++ (compilers, libraries, tools, etc.).
+- _Workshops_ provide an active arena for advancements in C++-relevant topics. Workshops provide the opportunity for experienced practitioners to develop new ideas about a topic of common interest and experience.
 
-Other formats may also be of interest. Don’t hold back a proposal just because it doesn’t fit into a pigeonhole.
+- _Tool Vendor Presentations_ : We actively encourage tool vendors and ISP’s to submit proposals for a special _Tool Vendors Session Track_ aimed at products related to Boost and C++ (compilers, libraries, tools, etc.).
+
+- Other formats may also be of interest. Don’t hold back a proposal just because it doesn’t fit into a pigeonhole.
 
 ###Submitting a Proposal
 All submissions should be made through our <a href="/submission/">submission page: here</a>.
