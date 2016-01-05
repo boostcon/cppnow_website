@@ -1,12 +1,13 @@
 ### Site info:
+name: C++Now!
 title: cppnow
 tagline: Cppnow 2016
-author: Ciere, Inc.
+author: C++Now!
 email: admin@ciere.com
-description: "Cppnow 2016" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+description: "C++Now! / Boostcon - A gathering of C++ expers and enthusiasts from around the world."
 keywords: ""
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: ""
+url: "http://cppnow.org"
 locale: en_US
 
 ### Personal info and site tools info:
@@ -22,6 +23,10 @@ aboutme_photo: "" # your photo.
 ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown when ShowContactInfo == True
 default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
 default_locale: "en" # blog sidebar language set, only include: English(en) and Chinese (cn)
+
+feed:
+    path: /feed/feed.xml
+
 
 locales:
     en:
@@ -48,7 +53,7 @@ Blogroll:
       href: ""
       title: ""
 
-gems : [jekyll-paginate]
+gems : [jekyll-paginate, jekyll-feed]
 
 ### Build settings
 markdown: kramdown
