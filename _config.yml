@@ -48,8 +48,16 @@ Blogroll:
       href: ""
       title: ""
 
+gems : [jekyll-paginate]
 
 ### Build settings
 markdown: kramdown
 highlighter: pygments
 paginate: 5
+
+
+### Yearly Configuration ###
+
+# The conference year to be home
+current_year: 2016-conference
+current_dates: "May 9, 2016 - May 14, 2016"

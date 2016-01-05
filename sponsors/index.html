@@ -1,12 +1,13 @@
 ---
-layout: default
+layout: fullpage
 permalink: /sponsors/
 ---
 
 <br />
 <div style="text-align:center;">
+  <p>For a copy of the C++Now Sponsorship Prospectus contact <a href="mailto:sponsorship@cppnow.org?Subject=C++Now%20Sponsorship" target="_top">sponsorship@cppnow.org</a></p>
 
-  {% for category in site.data.sponsors.sponsors.categories %}
+  {% for category in site.data[site.current_year].sponsors.sponsors.categories %}
     <h3>{{ category.title }}</h3>
     
     {% for sponsor in category.sponsors %}
@@ -21,7 +22,7 @@ permalink: /sponsors/
     
   <h3>Brought to you by</h3>
 
-  {% for broughtby in site.data.sponsors.broughtby.sponsors %}
+  {% for broughtby in site.data[site.current_year].sponsors.broughtby.sponsors %}
     <div>
         <a href="{{broughtby.href}}" target="_blank">
             <img src="/images/{{broughtby.image-lrg}}" alt="{{broughtby.title}}"/>
@@ -29,6 +30,4 @@ permalink: /sponsors/
     </div>
     <br />
   {% endfor %}
-
-  <p>For a copy of the C++Now Sponsorship Prospectus contact sponsorship@cppnow.org</p>
 </div>

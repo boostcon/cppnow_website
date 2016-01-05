@@ -129,6 +129,7 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
+  margin-top: 1em;
   font-weight: 300;
 }
 
@@ -318,4 +319,34 @@ hr{
 cite{ 
   font-style: italic;
   text-decoration: underline;
+}
+
+
+.conf-dates {
+  text-align: right;
+  font-style: italic;
+  font-weight: bold;
+  font-size: larger;
+  width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0.5em;
+}
+
+.post-title {
+  a {
+    color: #113E52; //$brand-top-color;
+    text-decoration: none;
+    border-bottom: 0px dotted;
+
+
+    &:visited {
+      color: darken(#113E52, 25%);
+    }
+
+    &:hover {
+      //color: #669900; //$hover-color;
+      text-decoration: underline;
+    }
+  }
 }
