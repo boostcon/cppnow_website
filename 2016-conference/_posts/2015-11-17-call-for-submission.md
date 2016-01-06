@@ -24,7 +24,7 @@ categories:
     }
 </style>
 
-We invite you to submit session proposals to the 5th annual C++Now Conference (tenth annual BoostCon): C++Now 2015 (Aspen CO, USA, May 9 – 14, 2016).
+We invite you to submit session proposals to the 5th annual C++Now Conference (tenth annual BoostCon): C++Now 2016 (Aspen CO, USA, May 9 – 14, 2016).
 
 Building upon the resounding success of previous BoostCon and C++Now conferences, C++Now 2016 will present leading speakers from the whole C++ community.
 
