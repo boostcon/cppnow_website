@@ -19,10 +19,10 @@
             {% for page in site.data.nav %}
               {% if page.subcategories != null %}
               <div class="dropdown" style="display:inline;">
-                  <a href="{{ site.url }}{{ page.url }}" id="{{page.title}}" class="dropdown-toggle page-link" data-toggle="dropdown" data-hover="dropdown"  aria-haspopup="true" aria-expanded="true">{{ page.title }}   <span class="caret"></span></a>
+                  <a href="{{ page.url }}" id="{{page.title}}" class="dropdown-toggle page-link" data-toggle="dropdown" data-hover="dropdown"  aria-haspopup="true" aria-expanded="true">{{ page.title }}   <span class="caret"></span></a>
                   <ul class="dropdown-menu" aria-labelledby="{{page.title}}">
                       {% for subcategory in page.subcategories %}
-                          <li><a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+                          <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
                       {% endfor %}
                   </ul>
               </div>
