@@ -93,7 +93,7 @@ All submissions will go through a peer review process.
 
 Session materials will be posted to the C++Now website and will be available to conference attendees.
 
-For general information on the C++Now 2016 paper submission process or the scope of technical papers solicited, please refer to the conference website at cppnow.org. For any other questions about the submission process or paper format, please contact the Program Committee <mailto:cppnow2016@easychair.com> .
+For general information on the C++Now 2016 paper submission process or the scope of technical papers solicited, please refer to the conference website at cppnow.org. For any other questions about the submission process or paper format, please contact the Program Committee <mailto:cppnow2016@easychair.org> .
 
 Note: Presenters must agree to grant a non-exclusive perpetual license to publish submitted materials, either electronically or in print, in any media related to C++Now.
 
