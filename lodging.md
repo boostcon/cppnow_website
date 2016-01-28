@@ -25,11 +25,11 @@ The Aspen Meadows Resort is approximately a block from the Aspen Center for Phys
 
 <br />
 
-Although we have a large block of rooms at the Aspen Meadows for C++Now, we expect registrations to exceed the resort’s capacity. We request that you make your reservation as soon as possible. As in years past, those who wait too long will not get a room.
+Although we have a large block of rooms at the Aspen Meadows for C++Now, we expect registrations to exceed the resort’s capacity. We request that you make your reservation as soon as possible. As in years past, those who waited too long did not get a room.
 
 <br />
 
-Please reserve your room for 2015 using the Aspen Meadows online reservation system or by calling (800) 452-4240 (remember that the reception will be Monday evening and sessions will start Tuesday morning)
+Please reserve your room for 2016 using <a href="https://aws.passkey.com/g/54941837">the Aspen Meadows online reservation system</a> or by calling (800) 452-4240 (remember that the reception will be Monday evening and sessions will start Tuesday morning)
 
 <br />
 
