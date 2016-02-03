@@ -27,7 +27,7 @@ The Tenth annual C++Now Conference (formerly BoostCon) will be held at the Aspen
 ![Aspen](/images/clow_2009_1.jpg "Photograph by Laurie Clow. Used with permission.")
 _Photograph by Laurie Clow. Used with permission._
 
-C++Now host sold out for the last three years and we expect to sell out again. Register immediately so you won't miss out.
+C++Now has sold out for the last three years and we expect to sell out again. Register immediately so you won't miss out.
 
 Register now at <a href="https://cppnow2016.eventbrite.com/">our registration page</a>.
 
