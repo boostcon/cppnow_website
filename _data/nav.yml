@@ -15,8 +15,8 @@
     #  subhref: "/conference_committee/"
     - subtitle: "Conference Staff"
       subhref: "/conference_staff/"
-    - subtitle: "Student / Volunteer Program"
-      subhref: "/student_vol_program/"
+    - subtitle: "Student/Volunteer Program"
+      subhref: "/student_volunteer_program/"
     - subtitle: "Contact"
       subhref: "/contact/"
 
