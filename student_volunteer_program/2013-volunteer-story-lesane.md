@@ -5,6 +5,8 @@ permalink: /2013-volunteer-story-lesane/
 
 ### Volunteer Story: Michael LeSane
 
+<br />
+
 <!---
 /images/michael_lesane.jpg
 Michael LeSane was a graduate student at Louisiana State University when he attended C++Now 2013 as a volunteer.
