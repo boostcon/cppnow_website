@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /2013-volunteer-story-duchene/
+permalink: /2013_volunteer_story_duchene/
 ---
 
 ### Volunteer Story: Alexander Duchene

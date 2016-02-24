@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /2013-volunteer-story-mercer/
+permalink: /2013_volunteer_story_mercer/
 ---
 
 ### Volunteer Story: Grant Mercer

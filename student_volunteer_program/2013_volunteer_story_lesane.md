@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /2013-volunteer-story-lesane/
+permalink: /2013_volunteer_story_lesane/
 ---
 
 ### Volunteer Story: Michael LeSane
