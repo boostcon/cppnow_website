@@ -5,7 +5,10 @@ permalink: /2013-volunteer-story-duchene/
 
 ### Volunteer Story: Alexander Duchene
 
-{% include caption.html url="/images/alexander_duchene.jpg" description="Alexander Duchene was an undergraduate at Louisiana State University when he attended C++Now 2013 as a volunteer." %}
+<!---
+/images/alexander_duchene.jpg
+Alexander Duchene was an undergraduate at Louisiana State University when he attended C++Now 2013 as a volunteer.
+-->
  
 Volunteering at the 2013 C++Now conference was a fantastic experience.
 

@@ -5,7 +5,10 @@ permalink: /2013-volunteer-story-mercer/
 
 ### Volunteer Story: Grant Mercer
 
-{% include caption.html url="/images/grant_mercer.jpg" description="Grant Mercer was a high school senior when he attended C++Now 2013 as a volunteer." %}
+<!--
+images/grant_mercer.jpg
+Grant Mercer was a high school senior when he attended C++Now 2013 as a volunteer.
+-->
 
 Volunteering at C++Now 2013 has been one of my biggest inspirations to continue learning and pursuing a career in computer science. Not only was I able to attend very informative sessions, but I was also able to socialize in a very relaxed environment with others who share my interest in computer science.
 

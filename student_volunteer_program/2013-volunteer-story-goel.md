@@ -5,7 +5,10 @@ permalink: /2013-volunteer-story-goel/
 
 ### Volunteer Story: Aakash Goel
 
-{% include caption.html url="/images/aakash_goel.jpg" description="Aakash Goel was a master’s student at the Georgia Institute of Technology when he attended C++Now 2013 as a volunteer." %}
+<!---
+/images/aakash_goel.jpg
+Aakash Goel was a master’s student at the Georgia Institute of Technology when he attended C++Now 2013 as a volunteer.
+-->
 
 Having followed BoostCon for a few years, it was a totally amazing opportunity to be selected for the C++Now volunteer program. I learned a lot about C++ that I thought I already knew, met a lot of cool and knowledgeable people, and more than anything, returned with a new confidence and appreciation for the language.
 
