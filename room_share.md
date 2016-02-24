@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /room_share/
-comment_title: room-share
+#comment_title: room-share
 ---
 
 ### Room Share

@@ -51,15 +51,14 @@
     - subtitle: "2015 Speakers"
       subhref: "http://cppnow2015.sched.org/directory/speakers"
 
-- title: "Previous Years"
-  href: "/previous/"
-  subcategories:
-    - subtitle: "C++Now Archive 2014"
-      subhref: "http://2014.cppnow.org/"
-    - subtitle: "C++Now Archive 2013"
-      subhref: "http://2013.cppnow.org/"
-    - subtitle: "C++Now Archive 2012"
-      subhref: "http://2012.cppnow.org/"
-    - subtitle: "Previous Years (BoostCon)"
-      subhref: "http://boostcon.boost.org/"
-
+#- title: "Previous Years"
+#  href: "/previous/"
+#  subcategories:
+#    - subtitle: "C++Now Archive 2014"
+#      subhref: "http://2014.cppnow.org/"
+#    - subtitle: "C++Now Archive 2013"
+#      subhref: "http://2013.cppnow.org/"
+#    - subtitle: "C++Now Archive 2012"
+#      subhref: "http://2012.cppnow.org/"
+#    - subtitle: "Previous Years (BoostCon)"
+#      subhref: "http://boostcon.boost.org/"
