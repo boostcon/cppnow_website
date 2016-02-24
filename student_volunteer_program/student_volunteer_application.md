@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: nocontainer
 permalink: /student_volunteer_application/
 ---
 
