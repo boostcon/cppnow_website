@@ -1,4 +1,6 @@
-<figure class="captionedimage">
-    <img src="{{ include.url }}" alt="{{ include.description }}">
-    <figcaption>{{ include.description }}</figcaption>
-</figure>
+<table class="captionedimage">
+    <caption align="bottom">{{ include.description }}</caption>
+    <tr><td>
+        <img src="{{ include.url }}" alt="{{ include.description }}">
+    </td></tr>
+</table>
