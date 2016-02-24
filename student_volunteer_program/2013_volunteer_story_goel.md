@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /2013-volunteer-story-goel/
+permalink: /2013_volunteer_story_goel/
 ---
 
 ### Volunteer Story: Aakash Goel
