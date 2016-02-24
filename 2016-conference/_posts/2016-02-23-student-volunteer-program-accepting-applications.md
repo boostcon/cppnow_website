@@ -30,5 +30,5 @@ Applications will be accepted until March 16th, 2016. Application decisions will
 
 You can apply and/or learn more about the program and some of the students who have participated **[here](/student_volunteer_application/)**.
 
-Bryce Adelstein-Lelbach <mailto:bryce@cppnow.org> (Student/Volunteer Chair)
+Bryce Adelstein-Lelbach <mailto:bryce@cppnow.org>  (Student/Volunteer Chair)
 
