@@ -9,7 +9,7 @@
   subcategories:
     - subtitle: "Attendee FAQ"
       subhref: "/attendee_faq/"
-    - subtitle: "Speaker FAQ"
+    - subtitle: "Submitter and Speaker FAQ"
       subhref: "/speaker_faq/"
     #- subtitle: "Conference Committees"
     #  subhref: "/conference_committee/"

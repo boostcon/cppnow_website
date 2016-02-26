@@ -3,6 +3,32 @@ layout: default
 permalink: /speaker_faq/
 ---
 
+### Submitter FAQ
+
+<br />
+
+#### What are the elements of a good submission?
+
+* Consider your audience. The Program Committee judges proposals based upon how interested C++Now attendees are likely to be in the content. The more niche your content, the less interest there will be, which increases the likelihood your presentation will be rejected.
+
+* Focus on topics about which you are knowledgeable and passionate.
+
+* Choose a short, punchy title that clearly states the purpose of the presentation. Clever titles can grab attention, but cutesy titles may do the opposite.
+
+* Try to write just one sentence to describe your presentation. As with documenting classes or functions, if you can't boil down the description, you're likely doing too much in one presentation.
+
+* Consider describing a challenge, problem, or situation you will address and then discuss how you will address or solve it.
+
+* Provide enough details to allow the reviewing to make an informed decision. The less well known you are to the reviewer or community, the more you have to show that you know the material, can organize a good presentation, and can interest the audience.
+
+* C++Now is a technical conference, so discussions of management problems, while not uncommon, are not appropriate.
+
+* Intentions to present on what does not yet exist increases the risk of rejection. For example, if you intend to present a library, don't expect the Program Committee to take on faith that you'll create that library and a good presentation by the time of the conference.
+
+* Overly simplistic subjects will almost certainly be rejected.
+
+* Don't underestimate your time requirements. If you are unused to technical presentations, then five minutes is a lot longer than you think and forty-five minutes is a lot shorter than you think.
+
 ### Speaker FAQ
 
 <br />
@@ -62,8 +88,8 @@ Running compiles or demos can add interest, but be very sure the app will work! 
 
 <br />
 
-#### What material should I provide for CD that is to be distributed to attendees?
-At the minimum, provide a PDF file of your slides. The more recent versions of presentation software provides the ability to output PDF files. If you’re on Windows and need some free software to work with Office, you can use PDFCreatorhttp://www.pdfforge.org/products/pdfcreator. Another option for creating PDFs is <http://createpdf.adobe.com/> – the first 5 are free.
+#### What material should I provide to be distributed to attendees?
+At the minimum, provide a PDF file of your slides.
 
 <br />
 
