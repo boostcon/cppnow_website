@@ -1,0 +1,12 @@
+<div style="margin: 4px {% if include.onright == 'true' %}0{% else %}24px{% endif %} 20px {% if !include.onright == 'true' %}24px{% else %}0{% endif %}; float: {% if include.onright == 'true' %}right{% else %}left{% endif %}; padding: 5px; background: #f1f1f1;">
+    <img
+        src="{{ include.imgsrc }}"
+        style="width: {% if include.imgwidth %}{{include.imgwidth}}{% else %}150{% endif %}px; margin: 5px 5px 0 5px;"
+        {% if include.alt %}title="{{include.alt}}"{% endif %}
+        alt="{% if include.alt %}{{include.alt}}{% else %}Photo{% endif %}" />
+
+    <p
+        style="width: {% if include.imgwidth %}{{include.imgwidth}}{% else %}150{% endif %}px; margin: 5px; text-align: left; font-size: 12px; line-height: 18px; color: #777;">
+        {{ include.caption }}
+    </p>
+</div>

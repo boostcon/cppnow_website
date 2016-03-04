@@ -12,7 +12,7 @@ images/grant_mercer.jpg
 Grant Mercer was a high school senior when he attended C++Now 2013 as a volunteer.
 -->
 
-Volunteering at C++Now 2013 has been one of my biggest inspirations to continue learning and pursuing a career in computer science. Not only was I able to attend very informative sessions, but I was also able to socialize in a very relaxed environment with others who share my interest in computer science.
+{% include image_caption.html imgsrc="/images/grant_mercer.jpg" caption="Grant Mercer was a high school senior when he attended C++Now 2013 as a volunteer." imgwidth=150 alt="Grant Mercer" onright="true" %}Volunteering at C++Now 2013 has been one of my biggest inspirations to continue learning and pursuing a career in computer science. Not only was I able to attend very informative sessions, but I was also able to socialize in a very relaxed environment with others who share my interest in computer science.
 
 <br />
 
