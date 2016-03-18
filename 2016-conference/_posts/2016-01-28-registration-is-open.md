@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Registration is Open
+
+excerpt_separator: <!--more-->
+
 tags:
   - announcements
   

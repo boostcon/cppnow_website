@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Accepting Student/Volunteer Applications
-excerpt_separator: <!--more-->
 
 tags:
   - announcements
@@ -11,6 +10,8 @@ categories:
 ---
 
 It is my pleasure to announce the fourth year of the C++Now Student/Volunteer program! We are again inviting students with an interest in C++ to attend the May 9-14, 2016 conference in Aspen, CO as Student/Volunteers.
+
+<!--more-->
 
 The Student/Volunteer program is an excellent way for students and young coders with an interest in C++ to learn about language and make lasting connections with the community.
 

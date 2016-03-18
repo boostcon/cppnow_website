@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Call For Submissions
-excerpt_separator: <!--more-->
 
 tags:
   - announcements
