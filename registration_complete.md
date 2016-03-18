@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /registration_complete/
+permalink: /registration-complete/
 ---
 
 # Registration Complete
