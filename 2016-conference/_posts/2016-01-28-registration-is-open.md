@@ -26,6 +26,9 @@ _Photograph by Laurie Clow. Used with permission._
 
 C++Now has sold out for the last three years and we expect to sell out again. Register immediately so you won't miss out.
 
+<!--more-->
+
+
 Register now at <a href="https://cppnow2016.eventbrite.com/">our registration page</a>.
 
 ###Submitters
