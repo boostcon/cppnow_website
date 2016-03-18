@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Registration is Open
-excerpt_separator: <!--more-->
-
 tags:
   - announcements
   
@@ -21,6 +19,7 @@ categories:
 Registration for C++Now 2016 is open!
 
 The Tenth annual C++Now Conference (formerly BoostCon) will be held at the Aspen Center for Physics in Aspen, Colorado, May 9th to 14th, 2016.
+
 
 ![Aspen](/images/clow_2009_1.jpg "Photograph by Laurie Clow. Used with permission.")
 _Photograph by Laurie Clow. Used with permission._

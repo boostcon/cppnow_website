@@ -33,7 +33,8 @@ layout: default
               </header>
 
               <article class="post-content" itemprop="articleBody">
-                {{ post.content | truncatewords: 50 }}
+                {{ post.content | strip_html | truncatewords: 50 }}
+                <br />
                 <a href="{{ post.url }}">More</a>
               </article> <hr />
 
