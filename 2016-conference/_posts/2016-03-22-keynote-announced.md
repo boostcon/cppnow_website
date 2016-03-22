@@ -12,7 +12,7 @@ categories:
 
 C++Now is a very forward-looking conference. It's focused on cutting edge techniques that take advantage of the latest features of Standard C++ to see today what the libraries that we'll all be using tomorrow will look like.
 
-But with our tenth annual conference, we are also looking back at were it all began. In keeping with the forward-looking nature of the conference, our first keynote was called "A Possible Future for Software Developement" and it was give my Sean Parent.
+But with our tenth annual conference, we are also looking back at were it all began. In keeping with the forward-looking nature of the conference, our very first keynote was called "A Possible Future for Software Developement" and it was given my Sean Parent.
 
 In this talk, Sean challenged the then conventional wisdom about the OO paradigm and advanced the viewpoint that the design principles of Generic Programming offered a way toward quality, scalable software.
 
