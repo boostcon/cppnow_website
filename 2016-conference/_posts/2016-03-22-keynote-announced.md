@@ -12,7 +12,7 @@ categories:
 
 C++Now is a very forward-looking conference. It's focused on cutting edge techniques that take advantage of the latest features of Standard C++ to see today what the libraries that we'll all be using tomorrow will look like.
 
-But with our tenth annual conference, we are also looking back at were it all began. In keeping with the forward-looking nature of the conference, our very first keynote was called "A Possible Future for Software Developement" and it was given my Sean Parent.
+But with our tenth annual conference, we are also looking back at were it all began. In keeping with the forward-looking nature of the conference, our very first keynote was called "A Possible Future for Software Developement" and it was given by Sean Parent.
 
 ![Sean Parent](/images/sean_parent.jpeg)
 
@@ -24,4 +24,4 @@ It is hard to imagine a better talk to characterize the direction that C++ libra
 
 Sean will be back this year to usher us into our second decade with another not-to-be-missed keynote called, simply, "Better Code." Sean will give a concise defintion of "good code," explore inevitable trade-offs, and discuss techniques for managing a large code base.
 
-Sean is currently a principle scientist and software architect for Adobe's digital imaging group and formerly managed Adobe's Software Technology Lab.
+Sean is currently a principal scientist and software architect for Adobe's digital imaging group and formerly managed Adobe's Software Technology Lab.
