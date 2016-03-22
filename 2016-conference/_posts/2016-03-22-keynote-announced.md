@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2016 Keynote: Sean Parent
+title: 2016 Keynote\: Sean Parent
 excerpt_separator: <!--more-->
 
 tags:
