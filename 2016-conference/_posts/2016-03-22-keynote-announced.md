@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Keynote Announced
+title: 2016 Keynote: Sean Parent
 excerpt_separator: <!--more-->
 
 tags:
@@ -22,9 +22,7 @@ In this historic talk, Sean challenged the then conventional wisdom about the OO
 
 It is hard to imagine a better talk to characterize the direction that C++ library development has taken over the last decade. It isn't possible to know if this was because of the influence that Sean has had on Boost and Boost has had on the C++ community or if Sean was just really good at predicting the future. In either case, it was a talk not to be missed.
 
-Sean is back this year to deliver another, not-to-be-missed keynote called, simply, "Better Code." Sean will give a concise defintion of "good code," explore inevitable trade-offs, and discuss techniques for managing a large code base.
+Sean will be back this year to usher us into our second decade with another, not-to-be-missed keynote called, simply, "Better Code." Sean will give a concise defintion of "good code," explore inevitable trade-offs, and discuss techniques for managing a large code base.
 
 
 Sean is currently a principle scientist and software architect for Adobe's digital imaging group and formerly managed Adobe's Software Technology Lab.
-
-
