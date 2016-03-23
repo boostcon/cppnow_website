@@ -44,6 +44,8 @@
 - title: "Program"
   href: "/program/"
   subcategories:
+    - subtitle: "2016 Schedule"
+      subhref: "/program-2016/"
     - subtitle: "2015 Presentations"
       subhref: "https://github.com/boostcon/cppnow_presentations_2015"
     - subtitle: "2015 Schedule"

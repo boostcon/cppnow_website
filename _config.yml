@@ -1,10 +1,10 @@
 ### Site info:
-name: C++Now!
+name: C++Now
 title: cppnow
 tagline: Cppnow 2016
-author: C++Now!
+author: C++Now
 email: admin@ciere.com
-description: "C++Now! / Boostcon - A gathering of C++ experts and enthusiasts from around the world."
+description: "C++Now / Boostcon - A gathering of C++ experts and enthusiasts from around the world."
 keywords: ""
 baseurl: ""
 url: "http://cppnow.org"
