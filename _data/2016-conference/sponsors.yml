@@ -25,8 +25,8 @@ sponsors:
 
 broughtby:
   sponsors:
-    - title: "Software Conservatory"
-      href: "http://www.sfconservancy.com"
+    - title: "Software Conservancy"
+      href: "http://sfconservancy.org"
       image: "softwarecon.png"
       image-lrg: "softwarecon_lrg.png" 
     - title: "Boost"
