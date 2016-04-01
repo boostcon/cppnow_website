@@ -16,6 +16,7 @@ permalink: /individual_sponsors/
 
 ***
 
+
 C++Now is brought to you by
 
 ![Boost C++ Libraries]({{site.baseurl}}/images/boost.png)
@@ -26,7 +27,9 @@ You can make a [donation to Boost](http://www.boost.org/donate/) in any amount.
 
 For a copy of the C++Now Corporate Sponsorship Prospectus contact [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org?Subject=C++Now%20Sponsorship).
 
+
 ***
+
 
 For individuals, C++Now offers the **Boost Scholarship Sponsorship**:
 
@@ -57,11 +60,17 @@ Contributions to the Boost Scholarship Fund are earmarked \* to support these pr
 * $125 tax deductible contribution**
 * Recognition on Boost and C++Now websites as "Boost Scholarship Sponsor – Bronze Level"
 
+
 ![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)
+
 
 Every donation comes with the knowledge that you are making the difference in the career of a C++ student.
 
 If you have any questions about individual sponsorships or any these programs contact [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org?Subject=C++Now%20Sponsorship).
+
+
+***
+
 
 \* It is the intent of the Boost Steering Committee to honor the wishes of all donors; however, an earmark does not represent a legal obligation.
 \** Tax deductible amounts are reduced by the fair market value of benefits received.
