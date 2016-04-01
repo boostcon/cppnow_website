@@ -1,5 +1,5 @@
 ---
-layout: fullpage
+layout: default
 permalink: /individual_sponsors/
 ---
 
@@ -7,9 +7,9 @@ permalink: /individual_sponsors/
 
 ###{{ category.title }}
     
-    {% for sponsor in category.sponsors %}
-              {{sponsor.name}}
-    {% endfor %}
+{% for sponsor in category.sponsors %}
+{{sponsor.name}}
+{% endfor %}
 
 {% endfor %}
     
@@ -73,4 +73,5 @@ If you have any questions about individual sponsorships or any these programs co
 
 
 \* It is the intent of the Boost Steering Committee to honor the wishes of all donors; however, an earmark does not represent a legal obligation.
+
 \** Tax deductible amounts are reduced by the fair market value of benefits received.
