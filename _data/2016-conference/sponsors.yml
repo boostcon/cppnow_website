@@ -39,3 +39,24 @@ broughtby:
       image-lrg: "acm_lrg.gif"
     
 
+individual_sponsors:
+  categories:
+
+    - title: "Boost Scholarship Sponsor – Gold Level"
+      sponsors:
+        - name: "Michael Caisse"
+        - name: "Robert Ramey"
+        - name: "Jon Kalb"
+
+    - title: "Boost Scholarship Sponsor – Silver Level"
+      sponsors:
+        - name: "Robert Ramey"
+        - name: "Jon Kalb"
+        - name: "Michael Caisse"
+
+    - title: "Boost Scholarship Sponsor – Bronze Level"
+      sponsors:
+        - name: "Jon Kalb"
+        - name: "Michael Caisse"
+        - name: "Robert Ramey"
+
