@@ -28,6 +28,16 @@ permalink: /individual_sponsors/
         text-align: center;
     }
 
+    h3
+    {
+        text-align: center;
+    }
+
+    h4
+    {
+        font-weight: bold;
+    }
+
     div.sponsor_name
     {
         text-align: center;
@@ -80,6 +90,7 @@ Contributions to the Boost Scholarship Fund are earmarked\* to support these pro
 
 ####Boost Scholarship Sponsor – Gold Level:
 The Gold Level Sponsorship is $500 and has these benefits:
+
 * Recognition on Boost and C++Now websites
 * Boost Scholarship Sponsor tee shirt 
 * Recognition at C++Now Welcome and Closing sessions 
@@ -87,12 +98,14 @@ The Gold Level Sponsorship is $500 and has these benefits:
 
 ####Boost Scholarship Sponsor – Silver Level:
 The Silver Level Sponsorship is $250 and has these benefits:
+
 * Recognition on Boost and C++Now websites
 * Recognition at C++Now Welcome and Closing sessions 
 * Boost Scholarship Sponsor tee shirt
 
 ####Boost Scholarship Sponsor – Bronze Level:
 The Bronze Level Sponsorship is $125 and has these benefits:
+
 * Recognition on Boost and C++Now websites
 * Boost Scholarship Sponsor tee shirt
 
