@@ -89,7 +89,7 @@ Contributions to the Boost Scholarship Fund are earmarked\* to support these pro
 
 ####Boost Scholarship Sponsor – Silver Level:
 * $250 tax deductible contribution**
-* Recognized on Boost and C++Now websites
+* Recognition on Boost and C++Now websites
 * Boost Scholarship Sponsor tee shirt
 
 ####Boost Scholarship Sponsor – Bronze Level:
