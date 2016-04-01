@@ -3,12 +3,41 @@ layout: default
 permalink: /individual_sponsors/
 ---
 
+<style>
+    img[alt=Donate]
+    {
+        float:center;
+    }
+
+    img[alt="Boost C++ Libraries"]
+    {
+        float:center;
+    }
+
+    div.sponsor_name
+    {
+        text-align: center;
+    }
+
+    div.level_name
+    {
+        text-align: center;
+    }
+
+    div.sponsor_name
+    {
+        text-align: center;
+    }
+
+</style>
+
+
 {% for category in site.data[site.current_year].sponsors.individual_sponsors.categories %}
 
-###{{ category.title }}
+###<div class="level_name">{{ category.title }}</div>
     
 {% for sponsor in category.sponsors %}
-->{{sponsor.name}}<-
+<div class="sponsor_name">{{sponsor.name}}</div>
 {% endfor %}
 
 {% endfor %}
