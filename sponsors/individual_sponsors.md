@@ -82,25 +82,27 @@ Contributions to the Boost Scholarship Fund are earmarked\* to support these pro
 
 ####Boost Scholarship Sponsor – Gold Level:
 * $500 tax deductible contribution**
-* Recognition on Boost and C++Now websites as "Boost Scholarship Sponsor – Gold Level"
+* Recognition on Boost and C++Now websites
 * Boost Scholarship Sponsor tee shirt 
 * Recognition at C++Now Welcome and Closing sessions 
 * Invitation to Meet The Student/Volunteers Breakfast at C++Now
 
 ####Boost Scholarship Sponsor – Silver Level:
 * $250 tax deductible contribution**
-* Recognized on Boost and C++Now websites as Boost Scholarship Sponsor – Silver Level" 
+* Recognized on Boost and C++Now websites
 * Boost Scholarship Sponsor tee shirt
 
 ####Boost Scholarship Sponsor – Bronze Level:
 * $125 tax deductible contribution**
-* Recognition on Boost and C++Now websites as "Boost Scholarship Sponsor – Bronze Level"
+* Recognition on Boost and C++Now websites
+
 
 
 ![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)
 
 
-Every donation comes with the knowledge that you are making the difference in the career of a C++ student.
+
+Every donation comes with the knowledge that you are making a difference in the career of a C++ student.
 
 
 If you have any questions about individual sponsorships or any of these programs contact [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org?Subject=C++Now%20Sponsorship).
