@@ -47,6 +47,8 @@ permalink: /individual_sponsors/
 
 ##Individual Sponsorships
 
+***
+
 {% for category in site.data[site.current_year].sponsors.individual_sponsors.categories %}
 
 ###{{ category.title }}
@@ -67,13 +69,13 @@ C++Now offers individual and [corporate sponsorships]({{site.baseurl}}/sponsors/
 The **Boost Scholarship Fund** supports two programs that directly benefit C++ students and indirectly benefit the entire C++ community: **Boost Summer of Code** and the **C++Now Student/Volunteer Program**.
 
 ####Boost Summer of Code
-The Boost Scholarship Fund supports Boost Summer of Code. This program is modeled after the Google Summer of Code program, in which Boost is a long time participant. Like GSoC, BSoC projects provide funding for students to work on specific Boost Library projects over the summer. BSoC is designed to supplement the GSoC program by allowing Boost to accept students that would otherwise be rejected by GSoC due to funding or eligibility.
+The BSoC program is modeled after the Google Summer of Code program, in which Boost is a long time participant. Like GSoC, BSoC projects provide funding for students to work on specific Boost Library projects over the summer. BSoC is designed to supplement the GSoC program by allowing Boost to accept students that would otherwise be rejected by GSoC due to funding or eligibility.
 
-####C++Now Student/Volunteer Program
-The Boost Scholarship Fund supports [C++Now's Student/Volunteer Program]({{site.baseurl}}/student_volunteer_program/). Each year, the conference helps a small group of young programmers attend the conference. In exchange, the students help the C++Now staff in running the conference.
+####[C++Now Student/Volunteer Program]({{site.baseurl}}/student_volunteer_program/)
+Each year, the conference helps a small group of young programmers attend the conference. In exchange, the students help the C++Now staff in running the conference.
 
 
-Contributions to the Boost Scholarship Fund are earmarked\* to support these programs and can be made in any amount, but specific benefits attach at certain sponsorship levels. Donations are made through Software Freedom Conservancy, a 501(c)3 not-for-profit charity and are fully tax-deductible to the extent permitted by law. Donors will receive a disclosure statement indicating the fair market value of any tangible benefits received.
+Contributions to the Boost Scholarship Fund are earmarked\* to support these programs and can be made in any amount, but specific benefits attach at certain sponsorship levels. Donations are made through [Software Freedom Conservancy](https://sfconservancy.org/supporter/), a 501(c)3 not-for-profit charity and are fully tax-deductible to the extent permitted by law. Donors will receive a disclosure statement indicating the fair market value of any tangible benefits received.
 
 ####Boost Scholarship Sponsor – Gold Level:
 The Gold Level Sponsorship is $500 and has these benefits:
@@ -106,13 +108,13 @@ Every donation comes with the knowledge that you are making a difference in the 
 
 <br>
 
-For a copy of the C++Now Corporate Sponsorship Prospectus or if you have any questions about individual sponsorships or any of these programs contact [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org?Subject=C++Now%20Sponsorship).
 
+\* It is the intent of the Boost Steering Committee to honor the wishes of all donors; however, an earmark does not represent a legal obligation on the Committee to apply the funds as directed. All funds will, regardless of their use, be spent in a way that benefits the Boost community, the general public, and the advancement of free and open source software.
 
 ***
 
+For a copy of the C++Now Corporate Sponsorship Prospectus or if you have any questions about individual sponsorships or any of these programs contact [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org?Subject=C++Now%20Sponsorship).
 
-\* It is the intent of the Boost Steering Committee to honor the wishes of all donors; however, an earmark does not represent a legal obligation on the Committee to apply the funds as directed. All funds will, regardless of their use, be spent in a way that benefits the Boost community, the general public, and the advancement of free and open source software.
 
 ***
 
