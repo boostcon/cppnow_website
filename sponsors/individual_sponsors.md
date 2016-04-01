@@ -23,7 +23,7 @@ permalink: /individual_sponsors/
         text-align: center;
     }
 
-    h3
+    h2
     {
         text-align: center;
     }
@@ -62,22 +62,9 @@ permalink: /individual_sponsors/
 ***
 
 
-C++Now is brought to you by
+C++Now offers individual and [corporate sponsorships]({{site.baseurl}}/sponsors/). For individuals, C++Now offers the **Boost Scholarship Sponsorship** in support of the Boost Scholarship Fund.
 
-![Boost C++ Libraries]({{site.baseurl}}/images/boost.png)
-
-
-You can make a [donation to Boost](http://www.boost.org/donate/) in any amount.
-
-
-
-***
-
-
-For individuals, C++Now offers the **Boost Scholarship Sponsorship**:
-
-
-The Boost Scholarship Fund supports two programs that directly benefit C++ students and indirectly benefit the entire C++ community: Boost Summer of Code and the C++Now Student/Volunteer Program.
+The **Boost Scholarship Fund** supports two programs that directly benefit C++ students and indirectly benefit the entire C++ community: **Boost Summer of Code** and the **C++Now Student/Volunteer Program**.
 
 ####Boost Summer of Code
 The Boost Scholarship Fund supports Boost Summer of Code. This program is modeled after the Google Summer of Code program, in which Boost is a long time participant. Like GSoC, BSoC projects provide funding for students to work on specific Boost Library projects over the summer. BSoC is designed to supplement the GSoC program by allowing Boost to accept students that would otherwise be rejected by GSoC due to funding or eligibility.
@@ -109,25 +96,33 @@ The Bronze Level Sponsorship is $125 and has these benefits:
 * Recognition on Boost and C++Now websites
 * Boost Scholarship Sponsor tee shirt
 
-
+<br>
 
 ![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)
 
-
+<br>
 
 Every donation comes with the knowledge that you are making a difference in the career of a C++ student.
 
+<br>
 
-If you have any questions about individual sponsorships or any of these programs contact [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org?Subject=C++Now%20Sponsorship).
-
-
-***
-
-
-For a copy of the C++Now Corporate Sponsorship Prospectus contact [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org?Subject=C++Now%20Sponsorship).
+For a copy of the C++Now Corporate Sponsorship Prospectus or if you have any questions about individual sponsorships or any of these programs contact [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org?Subject=C++Now%20Sponsorship).
 
 
 ***
 
 
 \* It is the intent of the Boost Steering Committee to honor the wishes of all donors; however, an earmark does not represent a legal obligation on the Committee to apply the funds as directed. All funds will, regardless of their use, be spent in a way that benefits the Boost community, the general public, and the advancement of free and open source software.
+
+***
+
+
+C++Now is brought to you by
+
+![Boost C++ Libraries]({{site.baseurl}}/images/boost.png)
+
+
+You can make a [donation to Boost](http://www.boost.org/donate/) in any amount.
+
+
+
