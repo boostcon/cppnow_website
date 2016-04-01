@@ -72,7 +72,7 @@ The **Boost Scholarship Fund** supports two programs that directly benefit C++ s
 The BSoC program is modeled after the Google Summer of Code program, in which Boost is a long time participant. Like GSoC, BSoC projects provide funding for students to work on specific Boost Library projects over the summer. BSoC is designed to supplement the GSoC program by allowing Boost to accept students that would otherwise be rejected by GSoC due to funding or eligibility.
 
 ####[C++Now Student/Volunteer Program]({{site.baseurl}}/student_volunteer_program/)
-Each year, the conference helps a small group of young programmers attend the conference. In exchange, the students help the C++Now staff in running the conference.
+Each year, the conference helps a small group of young programmers attend the conference. In exchange, the volunteers help the C++Now staff in running the conference.
 
 
 Contributions to the Boost Scholarship Fund are earmarked\* to support these programs and can be made in any amount, but specific benefits attach at certain sponsorship levels. Donations are made through [Software Freedom Conservancy](https://sfconservancy.org/supporter/), a 501(c)3 not-for-profit charity and are fully tax-deductible to the extent permitted by law. Donors will receive a disclosure statement indicating the fair market value of any tangible benefits received.
@@ -109,7 +109,7 @@ Every donation comes with the knowledge that you are making a difference in the 
 <br>
 
 
-\* It is the intent of the Boost Steering Committee to honor the wishes of all donors; however, an earmark does not represent a legal obligation on the Committee to apply the funds as directed. All funds will, regardless of their use, be spent in a way that benefits the Boost community, the general public, and the advancement of free and open source software.
+\* It is the intent of the Boost Steering Committee to honor the wishes of all donors; however, an earmark does not represent a legal obligation on the Committee to apply the funds as directed and we reserve the right to reallocate any unused funds towards other Boost activities. All funds will, regardless of their use, be spent in a way that benefits the Boost community, the general public, and the advancement of free and open source software.
 
 ***
 
@@ -125,6 +125,3 @@ C++Now is brought to you by
 
 
 You can make a [donation to Boost](http://www.boost.org/donate/) in any amount.
-
-
-
