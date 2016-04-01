@@ -1,5 +1,5 @@
 ---
-layout: fullpage
+layout: default
 permalink: /individual_sponsors/
 ---
 
@@ -16,7 +16,11 @@ permalink: /individual_sponsors/
 
 ***
 
-C++Now is brought to you by ![Boost C++ Libraries]({{site.baseurl}}/images/boost.png). You can make a [donation to Boost](http://www.boost.org/donate/) in any amount.
+C++Now is brought to you by
+
+-> ![Boost C++ Libraries]({{site.baseurl}}/images/boost.png) <-
+
+You can make a [donation to Boost](http://www.boost.org/donate/) in any amount.
 
 For a copy of the C++Now Corporate Sponsorship Prospectus contact [sponsorship@cppnow.org](mailto:sponsorship@cppnow.org?Subject=C++Now%20Sponsorship).
 
