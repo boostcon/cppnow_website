@@ -6,12 +6,16 @@ permalink: /individual_sponsors/
 <style>
     img[alt=Donate]
     {
-        float:center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     img[alt="Boost C++ Libraries"]
     {
-        float:center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     div.sponsor_name
@@ -19,7 +23,7 @@ permalink: /individual_sponsors/
         text-align: center;
     }
 
-    div.level_name
+    h3
     {
         text-align: center;
     }
@@ -34,7 +38,7 @@ permalink: /individual_sponsors/
 
 {% for category in site.data[site.current_year].sponsors.individual_sponsors.categories %}
 
-###<div class="level_name">{{ category.title }}</div>
+###{{ category.title }}
     
 {% for sponsor in category.sponsors %}
 <div class="sponsor_name">{{sponsor.name}}</div>
