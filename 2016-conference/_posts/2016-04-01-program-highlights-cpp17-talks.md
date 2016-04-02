@@ -38,14 +38,16 @@ variant and pattern matching papers (proposed for C++20). This talk aims to be
 of practical utility in variant library usage and informative as to where
 things are heading. 
 
-<b>About the Speaker:</b> David Sankel is a professional software
+<b>About the Speaker:</b> <i>David Sankel is a professional software
 developer/architect based in the USA. His prolific software developments have
 included CAD/CAM, computer graphics, visual programming languages, web
 applications, computer vision, and cryptography. He is a frequent speaker at
 the C++Now! conferences and is especially well known for his advanced
 functional programming in C++ talks. David's current research interests include
 dependently typed languages, semantic domains, EDSLs, and functional reactive
-programming. He currently works for the software firm, Stellar Science. 
+programming. He currently works for the software firm, Stellar Science.</i>
+
+<br />
 
 <h4><b>Nathan Myers</b> - <i><a href="http://sched.co/6SgD">Progress on Contract Support for C++17</a></i></h4>
 Contract Support in a language helps library authors and library users work
@@ -68,12 +70,14 @@ needs, with the minimum burden on programmers. This presentation explores the
 unified proposal and how it meets the needs of each group, and of programmers
 in general. Many surprises surfaced while merging the designs and simplifying. 
 
-<b>About the Speaker:</b> After using C++ in production since 1988, Nathan
+<b>About the Speaker:</b> <i>After using C++ in production since 1988, Nathan
 Myers joined the ISO Standard effort in 1993. He's responsible for keyword
 "explicit" and he invented traits, empty-base optimization, and indexing
 type-erased containers by type.  Nathan holds record for longest sentence using
 only C++ keywords, once each. He still thinks of the STL containers as only
-examples.
+examples.</i>
+
+<br />
 
 <h4><b>Alisdair Meredith</b> - <i><a href="http://sched.co/6SgA">Implementing tuple in C++17</a></i></h4>
 C++17 adds new language features that might affect the design and
@@ -91,7 +95,7 @@ implements an experimental C++17 mode. The latest Clang and gcc compilers
 should be capable, although the latest development compilers may be needed for
 new language features added in 2016. 
 
-<b>About the Speaker:</b> Alisdair Meredith is a software developer at
+<b>About the Speaker:</b> <i>Alisdair Meredith is a software developer at
 BloombergLP in New York, and formerly the C++ Standard Committee Library
 Working Group chair. He has been an active member of the C++ committee for just
 over a decade, and by a lucky co-incidence his first meeting was the kick-off
@@ -99,5 +103,5 @@ meeting for the project that would become C++11, and also fixed the contents of
 the original library TR. He is currently working on the BDE project,
 BloombergLP's open source libraries that offer a foundation for C++
 development, including a standard library implementation supporting the
-polymorphic allocator model proposed for standardization.
+polymorphic allocator model proposed for standardization.</i>
 
