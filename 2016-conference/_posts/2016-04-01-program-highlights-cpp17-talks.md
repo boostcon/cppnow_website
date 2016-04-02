@@ -23,6 +23,8 @@ still up for grabs, and our
 <a href="https://aws.passkey.com/g/54941837">group rate at the conference hotel</a>
 is still available. Hope to see you in Aspen this May!
 
+Here's some more details on those talks:
+
 <!--more-->
 
 <h4><b>David Sankel</b> - <i><a href="http://sched.co/6Sfb">Variants: Past, Present and Future</a></i></h4>
