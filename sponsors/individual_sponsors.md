@@ -100,6 +100,10 @@ The Bronze Level Sponsorship is $125 and has these benefits:
 
 <br>
 
+Every donation comes with the knowledge that you are making a difference in the career of a C++ student.
+
+<br>
+
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="R8YMK82272QP6">
@@ -115,10 +119,6 @@ Sponsorship via Software Freedom Conservancy.<br>Choose your Level:</td></tr><tr
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
-
-<br>
-
-Every donation comes with the knowledge that you are making a difference in the career of a C++ student.
 
 <br>
 
