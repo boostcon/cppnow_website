@@ -100,7 +100,21 @@ The Bronze Level Sponsorship is $125 and has these benefits:
 
 <br>
 
-![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="R8YMK82272QP6">
+<table>
+<tr><td><input type="hidden" name="on0" value="Level">Boost Scholarship
+Sponsorship via Software Freedom Conservancy. Choose your Level:</td></tr><tr><td><select name="os0">
+	<option value="Gold Level">Gold Level $500.00 USD</option>
+	<option value="Silver Level">Silver Level $250.00 USD</option>
+	<option value="Bronze Level">Bronze Level $125.00 USD</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
 
 <br>
 
