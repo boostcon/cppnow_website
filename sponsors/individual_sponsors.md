@@ -105,7 +105,7 @@ The Bronze Level Sponsorship is $125 and has these benefits:
 <input type="hidden" name="hosted_button_id" value="R8YMK82272QP6">
 <table>
 <tr><td><input type="hidden" name="on0" value="Level">Boost Scholarship
-Sponsorship via Software Freedom Conservancy. Choose your Level:</td></tr><tr><td><select name="os0">
+Sponsorship via Software Freedom Conservancy.<br>Choose your Level:</td></tr><tr><td><select name="os0">
 	<option value="Gold Level">Gold Level $500.00 USD</option>
 	<option value="Silver Level">Silver Level $250.00 USD</option>
 	<option value="Bronze Level">Bronze Level $125.00 USD</option>
