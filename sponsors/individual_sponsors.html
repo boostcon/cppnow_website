@@ -1,0 +1,21 @@
+---
+layout: fullpage
+permalink: /individual_sponsors_html/
+---
+
+<br />
+<div style="text-align:center;">
+  <p>For a copy of the C++Now Corporate Sponsorship Prospectus contact <a href="mailto:sponsorship@cppnow.org?Subject=C++Now%20Sponsorship" target="_top">sponsorship@cppnow.org</a></p>
+
+  {% for category in site.data[site.current_year].sponsors.individual_sponsors.categories %}
+    <h3>{{ category.title }}</h3>
+    
+    {% for sponsor in category.sponsors %}
+      <div>
+              {{sponsor.name}}
+      </div>
+    {% endfor %}
+    <br />
+  {% endfor %}
+    
+</div>

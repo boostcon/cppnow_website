@@ -7,14 +7,18 @@ sponsors:
           title: "Ciere Consulting"
           image: "ciere.png"
           image-lrg: "ciere.png"
-        - href: "http://www.jetbrains.com/"
-          title: "JetBrains"
-          image: "logo_JetBrains.small.png"
-          image-lrg: "logo_JetBrains.large.png"
         - href: "http://eventbrite.com"
           title: "Eventbrite"
           image: "eventbrite.png"
           image-lrg: "eventbrite_lrg.png"
+        - href: "http://www.jetbrains.com/"
+          title: "JetBrains"
+          image: "logo_JetBrains.small.png"
+          image-lrg: "logo_JetBrains.large.png"
+        - href: "http://www.tripwire.com"
+          title: "Tripwire"
+          image: "tripwire.png"
+          image-lrg: "tripwire_lrg.png"
 
     - title: "Video Sponsor"
       sponsors:
@@ -38,4 +42,12 @@ broughtby:
       image: "acm.png"
       image-lrg: "acm_lrg.gif"
     
+
+individual_sponsors:
+  categories:
+
+    - title: "Boost Scholarship Sponsor – Gold Level"
+      sponsors:
+        - name: "Jon and Kathleen Kalb"
+
 

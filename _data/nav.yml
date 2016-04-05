@@ -22,6 +22,11 @@
 
 - title: "Sponsors"
   href: "/sponsors/"
+  subcategories:
+    - subtitle: "Corporate Sponsors"
+      subhref: "/sponsors/"
+    - subtitle: "Individual Sponsors"
+      subhref: "/individual_sponsors/"
 
 - title: "Location"
   href: "/location/"
