@@ -49,8 +49,10 @@ individual_sponsors:
     - title: "Boost Scholarship Sponsor – Gold Level"
       sponsors:
         - name: "Jon and Kathleen Kalb"
+        # until 2017-04-05
     - title: "Boost Scholarship Sponsor – Silver Level"
       sponsors:
         - name: "Conan, C/C++ Package Manager"
+        # until 2017-04-06
 
 
