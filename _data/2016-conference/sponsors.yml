@@ -50,9 +50,11 @@ individual_sponsors:
       sponsors:
         - name: "Jon and Kathleen Kalb"
         # until 2017-04-05
+        # Jon Kalb <jonkalb@boost.org>
     - title: "Boost Scholarship Sponsor – Silver Level"
       sponsors:
         - name: "Conan, C/C++ Package Manager"
         # until 2017-04-06
+        # Diego Rodriguez-Losada <diego.rlosada@gmail.com>
 
 
