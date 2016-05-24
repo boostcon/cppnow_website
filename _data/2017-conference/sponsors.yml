@@ -1,0 +1,63 @@
+sponsors:
+  categories:
+
+    - title: "Bronze Sponsor"
+      sponsors:
+        - href: "http://ciere.com"
+          title: "Ciere Consulting"
+          image: "ciere.png"
+          image-lrg: "ciere.png"
+        - href: "http://eventbrite.com"
+          title: "Eventbrite"
+          image: "eventbrite.png"
+          image-lrg: "eventbrite_lrg.png"
+        - href: "http://www.jetbrains.com/"
+          title: "JetBrains"
+          image: "logo_JetBrains.small.png"
+          image-lrg: "logo_JetBrains.large.png"
+        - href: "http://www.tripwire.com"
+          title: "Tripwire"
+          image: "tripwire.png"
+          image-lrg: "tripwire_lrg.png"
+
+    - title: "Video Sponsor"
+      sponsors:
+        - href: "http://www.tripwire.com"
+          title: "Tripwire"
+          image: "tripwire.png"
+          image-lrg: "tripwire_lrg.png"
+
+broughtby:
+  sponsors:
+    - title: "Software Conservancy"
+      href: "http://sfconservancy.org"
+      image: "softwarecon.png"
+      image-lrg: "softwarecon_lrg.png" 
+    - title: "Boost"
+      href: "http://www.boost.org"
+      image: "boost.png"
+      image-lrg: "boost_lrg.png"
+    - title: "ACM"
+      href: "http://www.acm.com"
+      image: "acm.png"
+      image-lrg: "acm_lrg.gif"
+    
+
+individual_sponsors:
+  categories:
+
+    - title: "Boost Scholarship Sponsor – Gold Level"
+      sponsors:
+        - name: "Jon and Kathleen Kalb"
+        # until 2017-04-05
+        # Jon Kalb <jonkalb@boost.org>
+    - title: "Boost Scholarship Sponsor – Silver Level"
+      sponsors:
+        - name: "Conan, C/C++ Package Manager"
+        # until 2017-04-06
+        # Diego Rodriguez-Losada <diego.rlosada@gmail.com>
+        - name: "John Dubchak"
+        # until 2017-05-24
+        # John Dubchak <john@johndubchak.com>
+
+
