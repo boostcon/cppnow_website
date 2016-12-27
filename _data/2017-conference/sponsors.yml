@@ -1,6 +1,13 @@
 sponsors:
   categories:
 
+    - title: "Gold Sponsor"
+      sponsors:
+        - href: "http://www.commvault.com/"
+          title: "Commvault"
+          image: "commvault.png"
+          image-lrg: "commvault-lrg.png"
+
     - title: "Bronze Sponsor"
       sponsors:
         - href: "http://ciere.com"
