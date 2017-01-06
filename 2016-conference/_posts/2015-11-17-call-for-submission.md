@@ -38,16 +38,16 @@ At C++Now 2016 we would like to focus on the now established C++11 and C++14 sta
 ![Aspen](/images/ZoeticaEbb/Aspen2015_ZoeticaEbb19.jpg "Photograph by Zoetica Ebb. Used with permission.")
 _Photograph by Zoetica Ebb. Used with permission._
 
-###Important Dates
+### Important Dates
 
 | Proposal submissions due |   <strong>January 29th</strong> <em>(Note this date cannot and will not be extended.)</em> |
 | Proposal decisions sent | <strong>February 22nd</strong> |
 | Program online | <strong>March 14th</strong> |
 
-###Best Presentation Awards
+### Best Presentation Awards
 We know how much effort it takes to prepare talks for our conference. For this reason attendees vote on the best presentations of the conference. Each winner will receive a commemorative plaque and announcement on the C++Now website.
 
-###Session Topics
+### Session Topics
 
 Topics of interest include, but are not restricted to, the following:
 
@@ -67,7 +67,7 @@ Topics of interest include, but are not restricted to, the following:
 Interactive and collaborative sessions are encouraged, as this is the style of learning and participation that has proven most successful at such events. Sessions can be tutorial based, with an emphasis on interaction and participant involvement, or workshop based, whether hands-on programming or paper-based, discussion-driven collaborative work.
 
 
-###Session Formats
+### Session Formats
 
 - _Lectures_ focus on a practitioner’s ideas and experience with anything relevant to the C++ community.
 
@@ -81,7 +81,7 @@ Interactive and collaborative sessions are encouraged, as this is the style of l
 
 - Other formats may also be of interest. Don’t hold back a proposal just because it doesn’t fit into a pigeonhole.
 
-###Submitting a Proposal
+### Submitting a Proposal
 All submissions should be made through our <a href="/submission/">submission page: here</a>.
 
 Standard sessions are 90 minutes. You may submit a proposal for fractions or multiples of 90-minutes. Fractional proposals will be grouped into 90 minute sessions. Longer sessions, such as tutorials and classes, will be assigned 90 minute, three hour (i.e. half day), or six hour (i.e. full day) time slots.
