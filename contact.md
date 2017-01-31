@@ -17,4 +17,5 @@ Sponsorship: [sponsorship@cppnow.org](sponsorship@cppnow.org)
 
 ----------------
 Hotel:	Aspen Meadows Resort Phone: +1.800.452.4240
-Reservations: Please reserve your room for 2013 using the Aspen Meadows online reservation system
+
+Reservations: Please [reserve your room using the Aspen Meadows online reservation system]({{site.baseurl}}/lodging/)
