@@ -29,7 +29,7 @@ Although we have a large block of rooms at the Aspen Meadows for C++Now, we expe
 
 <br />
 
-Please reserve your room for 2016 using <a href="https://aws.passkey.com/g/54941837">the Aspen Meadows online reservation system</a> or by calling (800) 452-4240 (remember that the reception will be Monday evening and sessions will start Tuesday morning)
+Please reserve your room for 2017 using <a href="https://aws.passkey.com/go/softwarefreedomconservancy2017">the Aspen Meadows online reservation system</a> or by calling (800) 452-4240 (remember that the reception will be Monday evening and sessions will start Tuesday morning)
 
 <br />
 
