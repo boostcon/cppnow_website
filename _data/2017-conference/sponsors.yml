@@ -3,28 +3,32 @@ sponsors:
 
     - title: "Gold Sponsor"
       sponsors:
-        - href: "http://www.commvault.com/"
-          title: "Commvault"
-          image: "commvault.png"
-          image-lrg: "commvault-lrg.png"
+        - title: "Commvault"
+          href: "http://www.commvault.com/"
+          image: "sponsors/commvault.png"
+          image-lrg: "sponsors/commvault-lrg.png"
+        - title: "Stevens Capital Management"
+          href: "http://scm-lp.com/"
+          image: "sponsors/SCMLogo.jpeg"
+          image-lrg: "sponsors/SCMLogo.jpeg"
 
     - title: "Bronze Sponsor"
       sponsors:
-        - href: "https://www.cevelop.com/"
-          title: "Cevelop"
+        - title: "Cevelop"
+          href: "https://www.cevelop.com/"
           image: "sponsors/Cevelop.png"
           image-lrg: "sponsors/Cevelop.png"
-        - href: "http://ciere.com"
-          title: "Ciere Consulting"
-          image: "ciere.png"
-          image-lrg: "ciere.png"
+        - title: "Ciere Consulting"
+          href: "http://ciere.com"
+          image: "sponsors/ciere.png"
+          image-lrg: "sponsors/ciere.png"
 
     - title: "Video Sponsor"
       sponsors:
-        - href: "http://www.jetbrains.com/"
-          title: "JetBrains"
-          image: "logo_JetBrains.small.png"
-          image-lrg: "logo_JetBrains.large.png"
+        - title: "JetBrains"
+          href: "http://www.jetbrains.com/"
+          image: "sponsors/logo_JetBrains.small.png"
+          image-lrg: "sponsors/logo_JetBrains.large.png"
 
 broughtby:
   sponsors:
@@ -37,7 +41,7 @@ broughtby:
       image: "boost.png"
       image-lrg: "boost_lrg.png"
     - title: "ACM"
-      href: "http://www.acm.com"
+      href: "http://www.acm.org"
       image: "acm.png"
       image-lrg: "acm_lrg.gif"
     
