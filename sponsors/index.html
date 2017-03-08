@@ -17,7 +17,7 @@ permalink: /sponsors/
     {% for sponsor in category.sponsors %}
       <div>
           <a href="{{sponsor.href}}" target="_blank">
-              <img src="/images/{{sponsor.image-lrg}}" alt="{{sponsor.title}}"/>
+              <img src="/images/{{sponsor.image-lrg}}" alt="{{sponsor.title}}" width="370"/>
           </a>
       </div>
     {% endfor %}
@@ -29,7 +29,7 @@ permalink: /sponsors/
   {% for broughtby in site.data[site.current_year].sponsors.broughtby.sponsors %}
     <div>
         <a href="{{broughtby.href}}" target="_blank">
-            <img src="/images/{{broughtby.image-lrg}}" alt="{{broughtby.title}}"/>
+            <img src="/images/{{broughtby.image-lrg}}" alt="{{broughtby.title}}" width="370"/>
         </a>
     </div>
     <br />
