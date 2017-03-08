@@ -10,29 +10,21 @@ sponsors:
 
     - title: "Bronze Sponsor"
       sponsors:
+        - href: "https://www.cevelop.com/"
+          title: "Cevelop"
+          image: "sponsors/Cevelop.png"
+          image-lrg: "sponsors/Cevelop.png"
         - href: "http://ciere.com"
           title: "Ciere Consulting"
           image: "ciere.png"
           image-lrg: "ciere.png"
-        - href: "http://eventbrite.com"
-          title: "Eventbrite"
-          image: "eventbrite.png"
-          image-lrg: "eventbrite_lrg.png"
+
+    - title: "Video Sponsor"
+      sponsors:
         - href: "http://www.jetbrains.com/"
           title: "JetBrains"
           image: "logo_JetBrains.small.png"
           image-lrg: "logo_JetBrains.large.png"
-        - href: "http://www.tripwire.com"
-          title: "Tripwire"
-          image: "tripwire.png"
-          image-lrg: "tripwire_lrg.png"
-
-    - title: "Video Sponsor"
-      sponsors:
-        - href: "http://www.tripwire.com"
-          title: "Tripwire"
-          image: "tripwire.png"
-          image-lrg: "tripwire_lrg.png"
 
 broughtby:
   sponsors:
