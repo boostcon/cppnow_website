@@ -37,3 +37,11 @@ One final theme of the talk is that the benefits of ownership go beyond having f
 
 *Nicholas Matsakis is a senior researcher at Mozilla research and a member of the Rust core team. He has been working on Rust for nearly six years and did much of the initial work on its type system and other core features. Prior to working on Rust, he did his undergraduate studies at MIT and completed a PhD at ETH Zurich in 2011. He also spent several years at DataPower Technology, a startup since acquired by IBM, working on the JIT compiler and networking runtime.*
 
+<hr />
+
+**[Registration is still open](https://cppnow2017.eventbrite.com)** and **[student/volunteer program is still accepting applications!](/student_volunteer_application/)**!
+
+Hope to see you in Aspen!
+
+-- Bryce Adelstein Lelbach, C++Now Program Chair
+
