@@ -24,9 +24,7 @@ Many of our favorite C++Now keynotes have been the ones that presented views tha
 
 This year's keynote theme reflects that desire for new perspectives:
 
-<blockquote>
-**"What can C++ learn from other languages?"**
-</blockquote>
+<p style="text-indent: 50px;"><b>What can C++ learn from other languages?</b></p>
 
 Naturally, we started with **[Rust](https://www.rust-lang.org)**.
 
