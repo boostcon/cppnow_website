@@ -25,10 +25,10 @@ Many of our favorite C++Now keynotes have been the ones that presented views tha
 This year's keynote theme reflects that desire for new perspectives: **"What can C++ learn from other languages?"**
 
 Naturally, we started with **Rust**.
+**Nicholas Matsakis**, a senior researcher at Mozilla and a member of the Rust core team, will be given a keynote about ownership in Rust and how it enables memory safety without garbage collection, concurrency without data races and abstraction without overhead.
 
 ![Niko Matsakis](/images/niko_matsakis.jpeg)
 
-**Nicholas Matsakis**, a senior researcher at Mozilla and a member of the Rust core team, will be given a keynote about ownership in Rust and how it enables memory safety without garbage collection, concurrency without data races and abstraction without overhead.
 
 <!--more-->
 
@@ -47,9 +47,10 @@ One final theme of the talk is that the benefits of ownership go beyond having f
 
 <hr />
 
-**[Registration is still open](https://cppnow2017.eventbrite.com)** and **[student/volunteer program is still accepting applications!](/student_volunteer_application/)**!
+**Come join us in Aspen for C++Now 2017:**
 
-Hope to see you in Aspen!
+- **[Registration is still open!](https://cppnow2017.eventbrite.com) and **
+- **[the student/volunteer program is still accepting applications!](/student_volunteer_application/)**
 
 -- Bryce Adelstein Lelbach, C++Now Program Chair
 
