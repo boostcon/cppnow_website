@@ -21,7 +21,7 @@ categories:
 
 At C++Now, we love to challenge the norm.
  
-Many of our favorite C++Now keynotes have been the ones that presented views that differ from accepted C++ philosophy and thoughtfully question the status quo in the C++ community. 
+Many of our favorite C++Now keynotes have presented views that differ from accepted C++ philosophy and thoughtfully question the status quo in the C++ community. 
 
 This year's keynote theme reflects that desire for new perspectives:
 
