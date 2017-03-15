@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2017 Keynote - Niko Matsakis - Rust: Hack without fear!"
+title: "2017 Keynote - Niko Matsakis - Rust: Hack Without fear!"
 excerpt_separator: <!--more-->
 
 tags:
@@ -19,9 +19,9 @@ categories:
     }
 </style>
 
-At C++Now, we love to challenge the norm.
+At C++Now, we love to challenge the status quo.
  
-Many of our favorite C++Now keynotes have presented views that differ from accepted C++ philosophy and thoughtfully question the status quo in the C++ community. 
+Many of our favorite C++Now keynotes have presented views that differ from accepted C++ philosophy and thoughtfully question common practice in the C++ community. 
 
 We have a few keynotes this year and they share a common theme that reflects our desire for new perspectives:
 
@@ -29,7 +29,7 @@ We have a few keynotes this year and they share a common theme that reflects our
 
 Naturally, we started with **[Rust](https://www.rust-lang.org)**.
 
-**Nicholas Matsakis**, a senior researcher at Mozilla and a member of the Rust core team, will be giving a keynote at C++Now 2017 about ownership in Rust.
+**Nicholas Matsakis**, a senior researcher at Mozilla Research and a member of the Rust core team, will be giving a keynote at C++Now 2017 about ownership in Rust called, <i>Rust: Hack Without Fear</i>.
 
 ![Photo](/images/niko_matsakis.jpeg "Nicholas Matsakis, Mozilla, Rust core team")
 
@@ -41,7 +41,7 @@ Through the concept of zero-cost abstractions, C++ has shown that it is possible
 - Concurrency without data races,
 - Abstraction without overhead.
 
-In his talk, he'll explain ownership and show how Rust uses it to guarantee thread safety, amongst other things. He'll also talk about how Rust is designed to scale to large code-bases, sharing some of his experiences at Mozilla integrating Rust into Firefox.
+In his talk, Nico will explain ownership and show how Rust uses it to guarantee thread safety, amongst other things. He'll also talk about how Rust is designed to scale to large code-bases, sharing some of his experiences at Mozilla integrating Rust into Firefox.
 
 One final theme of the talk is that the benefits of ownership go beyond having fewer bugs: once you are freed from the need to prevent memory-safety violations, it becomes possible to write - and *maintain* - programs that aggressively pursue parallelization and other kinds of optimizations that would have been too risky or too difficult before.
 
