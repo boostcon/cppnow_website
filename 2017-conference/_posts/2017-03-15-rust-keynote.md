@@ -10,7 +10,7 @@ categories:
   - announcements
 ---
 <style>
-    img[alt=Aspen] { 
+    img[alt=Niko Matsakis] { 
         float: right; 
         padding:10px;
         background: #f1f1f1;
@@ -27,8 +27,7 @@ This year's keynote theme reflects that desire for new perspectives: **"What can
 Naturally, we started with **Rust**.
 **Nicholas Matsakis**, a senior researcher at Mozilla and a member of the Rust core team, will be given a keynote about ownership in Rust and how it enables memory safety without garbage collection, concurrency without data races and abstraction without overhead.
 
-![Niko Matsakis](/images/niko_matsakis.jpeg)
-
+![Niko Matsakis](/images/niko_matsakis.jpeg "Nicholas Matsakis, Mozilla, Rust core team")
 
 <!--more-->
 
