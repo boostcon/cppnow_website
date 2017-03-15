@@ -9,6 +9,14 @@ tags:
 categories:
   - announcements
 ---
+<style>
+    img[alt=Aspen] { 
+        float: right; 
+        padding:10px;
+        background: #f1f1f1;
+        border:5px #f1f1f1 solid;
+    }
+</style>
 
 At C++Now, we love to challenge the norm.
  
