@@ -10,7 +10,7 @@ categories:
   - announcements
 ---
 <style>
-    img[alt=Niko Matsakis] { 
+    img[alt=Photo] { 
         float: right; 
         padding:10px;
         background: #f1f1f1;
@@ -24,10 +24,11 @@ Many of our favorite C++Now keynotes have been the ones that presented views tha
 
 This year's keynote theme reflects that desire for new perspectives: **"What can C++ learn from other languages?"**
 
-Naturally, we started with **Rust**.
-**Nicholas Matsakis**, a senior researcher at Mozilla and a member of the Rust core team, will be given a keynote about ownership in Rust and how it enables memory safety without garbage collection, concurrency without data races and abstraction without overhead.
+Naturally, we started with **[Rust](https://www.rust-lang.org)**.
 
-![Niko Matsakis](/images/niko_matsakis.jpeg "Nicholas Matsakis, Mozilla, Rust core team")
+**Nicholas Matsakis**, a senior researcher at Mozilla and a member of the Rust core team, will be giving a keynote at C++Now 2017 about ownership in Rust.
+
+![Photo](/images/niko_matsakis.jpeg "Nicholas Matsakis, Mozilla, Rust core team")
 
 <!--more-->
 
