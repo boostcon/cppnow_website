@@ -11,7 +11,8 @@ categories:
 ---
 <style>
     img[alt=Photo] { 
-        float: right; 
+        display: block;
+        margin: auto;
         padding:10px;
         background: #f1f1f1;
         border:5px #f1f1f1 solid;
@@ -34,8 +35,7 @@ Naturally, we started with **[Rust](https://www.rust-lang.org)**.
 
 <!--more-->
 
-Through the concept of zero-cost abstractions, C++ has shown that it is possible to combine low-level control with high-level programming concepts. Rust is language that aims to offer the same sorts of zero-cost abstractions that C++ is capable of, while also enforcing memory safety and data-race freedom. The secret sauce is Rust's core notion
-of "ownership", which enables:
+Through the concept of zero-cost abstractions, C++ has shown that it is possible to combine low-level control with high-level programming concepts. Rust is language that aims to offer the same sorts of zero-cost abstractions that C++ is capable of, while also enforcing memory safety and data-race freedom. The secret sauce is Rust's core notion of "ownership", which enables:
 
 - Memory safety without garbage collection;
 - Concurrency without data races,
