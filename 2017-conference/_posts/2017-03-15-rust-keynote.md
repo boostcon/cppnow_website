@@ -23,7 +23,7 @@ At C++Now, we love to challenge the norm.
  
 Many of our favorite C++Now keynotes have presented views that differ from accepted C++ philosophy and thoughtfully question the status quo in the C++ community. 
 
-This year's keynote theme reflects that desire for new perspectives:
+We have a few keynotes this year, and they share a common theme that reflects our desire for new perspectives:
 
 <p style="text-indent: 50px;"><b>What can C++ learn from other languages?</b></p>
 
