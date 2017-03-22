@@ -10,7 +10,7 @@ categories:
   - announcements
 ---
 
-The complete [Program for C++Now 2017](https://cppnow2017.sched.com/) is now available.
+The complete [Program for C++Now 2017](/program-2017/) is now available.
 
 ![C++Now](/images/ZoeticaEbb/43_LightningTalks.jpeg "Photograph by Zoetica Ebb. Used with permission.")
 _Photograph by Zoetic Ebb. Used with permission._
