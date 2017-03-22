@@ -49,6 +49,10 @@
 - title: "Program"
   href: "/program/"
   subcategories:
+    - subtitle: "2017 Schedule"
+      subhref: "/program-2017/"
+    - subtitle: "2017 Speakers"
+      subhref: "/speakers-2017/"
     - subtitle: "2016 Schedule"
       subhref: "/program-2016/"
     - subtitle: "2016 Speakers"
