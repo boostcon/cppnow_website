@@ -1,7 +1,7 @@
 sponsors:
   categories:
 
-    - title: "Gold Sponsor"
+    - title: "Gold Sponsorship"
       sponsors:
         - title: "Commvault"
           href: "http://www.commvault.com/"
@@ -12,8 +12,12 @@ sponsors:
           image: "sponsors/SCMLogo.jpeg"
           image-lrg: "sponsors/SCMLogo.jpeg"
 
-    - title: "Bronze Sponsor"
+    - title: "Bronze Sponsorship"
       sponsors:
+        - title: "Bloomberg LLC"
+          href: "http://techatbloomberg.com/"
+          image: "sponsors/sponsor-bloomberg.png"
+          image-lrg: "sponsors/sponsor-bloomberg.png"
         - title: "Cevelop"
           href: "https://www.cevelop.com/"
           image: "sponsors/Cevelop.png"
@@ -23,7 +27,7 @@ sponsors:
           image: "sponsors/ciere.png"
           image-lrg: "sponsors/ciere.png"
 
-    - title: "Video Sponsor"
+    - title: "Video Sponsorship"
       sponsors:
         - title: "JetBrains"
           href: "http://www.jetbrains.com/"

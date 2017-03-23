@@ -1,7 +1,7 @@
 sponsors:
   categories:
 
-    - title: "Bronze Sponsor"
+    - title: "Bronze Sponsorship"
       sponsors:
         - href: "http://ciere.com"
           title: "Ciere Consulting"
@@ -20,7 +20,7 @@ sponsors:
           image: "tripwire.png"
           image-lrg: "tripwire_lrg.png"
 
-    - title: "Video Sponsor"
+    - title: "Video Sponsorship"
       sponsors:
         - href: "http://www.tripwire.com"
           title: "Tripwire"
