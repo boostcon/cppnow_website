@@ -17,7 +17,7 @@ permalink: /sponsors/
     {% for sponsor in category.sponsors %}
       <div>
           <a href="{{sponsor.href}}" target="_blank">
-              <img class="patron_image" src="/images/{{sponsor.image-lrg}}" alt="{{sponsor.title}}" width="370"/>
+              <img {% if sponsor.image-lrg-margin %} vspace="{{sponsor.image-lrg-margin}}" {% endif %} class="patron_image" src="/images/{{sponsor.image-lrg}}" alt="{{sponsor.title}}" width="370"/>
           </a>
       </div>
     {% endfor %}
