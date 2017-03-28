@@ -14,6 +14,10 @@ sponsors:
 
     - title: "Bronze Sponsorship"
       sponsors:
+        - title: "Backtrace"
+          href: "https://backtrace.io/"
+          image: "sponsors/Backtrace.png"
+          image-lrg: "sponsors/Backtrace.png"
         - title: "Bloomberg LLC"
           href: "https://www.techatbloomberg.com/"
           image: "sponsors/sponsor-bloomberg.png"
