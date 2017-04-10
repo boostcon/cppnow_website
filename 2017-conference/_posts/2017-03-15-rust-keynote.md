@@ -52,7 +52,6 @@ One final theme of the talk is that the benefits of ownership go beyond having f
 <b>Come join us in Aspen for C++Now 2017:</b>
 
 - <b>[Registration is still open](https://cppnow2017.eventbrite.com) and</b>
-- <b>[the student/volunteer program is still accepting applications!](/student_volunteer_application/)</b>
 
 -- Bryce Adelstein Lelbach, C++Now Program Chair
 
