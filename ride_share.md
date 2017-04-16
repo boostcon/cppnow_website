@@ -10,7 +10,7 @@ permalink: /ride_share/
    <img src="{{site.baseurl}}/images/ride_share.jpg" />
 </div>
 
-If you are looking to share a ride to the conference please visit the <a href="http://www.brownbearsw.com/freecal/acp_rides" target="_blank">ride board for the Aspen Center for Physics</a>. For the ride board password, send mail to [sharing@cppnow.org](mailto:sharing@cppnow.org).
+For ride share information, please see [this document](https://docs.google.com/spreadsheets/d/1izqsmyMEP86ard-wQjoPvdEepdHk2_I8k96O1XgcbZc) maintained by Robin Kuzmin.
 
 <br />
 
