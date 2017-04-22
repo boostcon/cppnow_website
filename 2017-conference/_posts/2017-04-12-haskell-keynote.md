@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2017 Keynote - Ryan Newton - Haskell Taketh Away: Limiting Side Effects for Parallel programming"
+title: "2017 Keynote - Ryan Newton - Haskell Taketh Away: Limiting Side Effects for Parallel Programming"
 excerpt_separator: <!--more-->
 
 tags:
