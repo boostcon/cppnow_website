@@ -1,7 +1,7 @@
 sponsors:
   categories:
 
-    - title: "Gold Sponsor"
+    - title: "Gold Sponsorship"
       sponsors:
         - title: "Commvault"
           href: "http://www.commvault.com/"
@@ -12,8 +12,20 @@ sponsors:
           image: "sponsors/SCMLogo.jpeg"
           image-lrg: "sponsors/SCMLogo.jpeg"
 
-    - title: "Bronze Sponsor"
+    - title: "Bronze Sponsorship"
       sponsors:
+        - title: "Backtrace"
+          href: "https://backtrace.io/"
+          image: "sponsors/Backtrace.png"
+          image-margin: "10"
+          image-lrg: "sponsors/Backtrace.png"
+          image-lrg-margin: "25"
+        - title: "Bloomberg LLC"
+          href: "https://www.techatbloomberg.com/"
+          image: "sponsors/sponsor-bloomberg.png"
+          image-margin: "10"
+          image-lrg: "sponsors/sponsor-bloomberg.png"
+          image-lrg-margin: "25"
         - title: "Cevelop"
           href: "https://www.cevelop.com/"
           image: "sponsors/Cevelop.png"
@@ -21,9 +33,11 @@ sponsors:
         - title: "Ciere Consulting"
           href: "http://ciere.com"
           image: "sponsors/ciere.png"
+          image-margin: "5"
           image-lrg: "sponsors/ciere.png"
+          image-lrg-margin: "12"
 
-    - title: "Video Sponsor"
+    - title: "Video Sponsorship"
       sponsors:
         - title: "JetBrains"
           href: "http://www.jetbrains.com/"
@@ -52,11 +66,11 @@ individual_sponsors:
     - title: "Boost Scholarship Sponsor – Gold Level"
       sponsors:
         - name: "Jon and Kathleen Kalb"
-        # until 2017-04-05
+        # until 2018-04-05
         # Jon Kalb <jonkalb@boost.org>
     - title: "Boost Scholarship Sponsor – Silver Level"
       sponsors:
-        - name: "Conan, C/C++ Package Manager"
+        #- name: "Conan, C/C++ Package Manager"
         # until 2017-04-06
         # Diego Rodriguez-Losada <diego.rlosada@gmail.com>
         - name: "John Dubchak and Michele Hart"

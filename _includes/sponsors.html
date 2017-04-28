@@ -6,7 +6,7 @@
       {% for sponsor in category.sponsors %}
         <div>
             <a href="{{sponsor.href}}" target="_blank">
-                <img src="/images/{{sponsor.image}}" alt="{{sponsor.title}}" width="150"/>
+                <img {% if sponsor.image-margin %} vspace="{{sponsor.image-margin}}" {% endif %} class="patron_image" src="/images/{{sponsor.image}}" alt="{{sponsor.title}}" width="150"/>
             </a>
         </div>
       {% endfor %}
