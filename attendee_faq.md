@@ -19,7 +19,7 @@ Think back to the conferences you’ve been to. If your experience is like ours,
 <br />
 
 #### Code of Conduct
-C++Now attendees are expected to abide by the [C++Now Code of Conduct](https://github.com/boostcon/cppnow_code_of_conduct). To report an incident, or if you have any questions or concerns, please contact [the Code of Conduct team](https://github.com/boostcon/cppnow_code_of_conduct/blob/master/code_of_conduct.md#contact-information).
+C++Now attendees are expected to abide by the [C++Now Code of Conduct](https://github.com/boostcon/cppnow_code_of_conduct/blob/master/code_of_conduct.md). To report an incident, or if you have any questions or concerns, please contact [the Code of Conduct team](https://github.com/boostcon/cppnow_code_of_conduct/blob/master/code_of_conduct.md#contact-information).
 
 <br />
 
