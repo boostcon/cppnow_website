@@ -20,6 +20,7 @@ Think back to the conferences you’ve been to. If your experience is like ours,
 
 #### Code of Conduct
 We use the [PyCon Code of Conduct](https://us.pycon.org/2016/about/code-of-conduct/). For any questions or concerns, [contact our Security Team](mailto:security@cppnow.org) or [contact Jon Kalb](mailto:jon@cppnow.org), our Conference Chair, directly.
+
 <br />
 
 #### Why is the reserved room block at Aspen Meadows so small?
