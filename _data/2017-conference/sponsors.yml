@@ -73,6 +73,9 @@ individual_sponsors:
         #- name: "Conan, C/C++ Package Manager"
         # until 2017-04-06
         # Diego Rodriguez-Losada <diego.rlosada@gmail.com>
+        - name: "Ali Çehreli"
+        # until 2018-05-01
+        # Ali Çehreli <acehreli@yahoo.com>
         - name: "John Dubchak and Michele Hart"
         # until 2017-12-31
         # John Dubchak <john@johndubchak.com>
