@@ -31,6 +31,8 @@
 - title: "Location"
   href: "/location/"
   subcategories:
+    - subtitle: "Map"
+      subhref: "/documents/map.pdf"
     - subtitle: "Ride Share"
       subhref: "/ride_share/"
     - subtitle: "Room Share"
