@@ -1,0 +1,83 @@
+sponsors:
+  categories:
+
+    - title: "Gold Sponsorship"
+      sponsors:
+        - title: "Commvault"
+          href: "http://www.commvault.com/"
+          image: "sponsors/commvault.png"
+          image-lrg: "sponsors/commvault-lrg.png"
+        - title: "Stevens Capital Management"
+          href: "http://scm-lp.com/"
+          image: "sponsors/SCMLogo.jpeg"
+          image-lrg: "sponsors/SCMLogo.jpeg"
+
+    - title: "Bronze Sponsorship"
+      sponsors:
+        - title: "Backtrace"
+          href: "https://backtrace.io/"
+          image: "sponsors/Backtrace.png"
+          image-margin: "10"
+          image-lrg: "sponsors/Backtrace.png"
+          image-lrg-margin: "25"
+        - title: "Bloomberg LLC"
+          href: "https://www.techatbloomberg.com/"
+          image: "sponsors/sponsor-bloomberg.png"
+          image-margin: "10"
+          image-lrg: "sponsors/sponsor-bloomberg.png"
+          image-lrg-margin: "25"
+        - title: "Cevelop"
+          href: "https://www.cevelop.com/"
+          image: "sponsors/Cevelop.png"
+          image-lrg: "sponsors/Cevelop.png"
+        - title: "Ciere Consulting"
+          href: "http://ciere.com"
+          image: "sponsors/ciere.png"
+          image-margin: "5"
+          image-lrg: "sponsors/ciere.png"
+          image-lrg-margin: "12"
+
+    - title: "Video Sponsorship"
+      sponsors:
+        - title: "JetBrains"
+          href: "http://www.jetbrains.com/"
+          image: "sponsors/logo_JetBrains.small.png"
+          image-lrg: "sponsors/logo_JetBrains.large.png"
+
+broughtby:
+  sponsors:
+    - title: "Software Conservancy"
+      href: "http://sfconservancy.org"
+      image: "softwarecon.png"
+      image-lrg: "softwarecon_lrg.png" 
+    - title: "Boost"
+      href: "http://www.boost.org"
+      image: "boost.png"
+      image-lrg: "boost_lrg.png"
+    - title: "ACM"
+      href: "http://www.acm.org"
+      image: "acm.png"
+      image-lrg: "acm_lrg.gif"
+    
+
+individual_sponsors:
+  categories:
+
+    - title: "Boost Scholarship Sponsor – Gold Level"
+      sponsors:
+        - name: "Jon and Kathleen Kalb"
+        # until 2018-04-05
+        # Jon Kalb <jonkalb@boost.org>
+    - title: "Boost Scholarship Sponsor – Silver Level"
+      sponsors:
+        #- name: "Conan, C/C++ Package Manager"
+        # until 2017-04-06
+        # Diego Rodriguez-Losada <diego.rlosada@gmail.com>
+        - name: "Ali Çehreli"
+        # until 2018-05-01
+        # Ali Çehreli <acehreli@yahoo.com>
+        - name: "John Dubchak and Michele Hart"
+        # until 2017-12-31
+        # John Dubchak <john@johndubchak.com>
+
+

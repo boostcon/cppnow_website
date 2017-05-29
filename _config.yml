@@ -1,7 +1,7 @@
 ### Site info:
 name: C++Now
-title: cppnow
-tagline: Cppnow 2016
+title: C++Now
+tagline: C++Now 2018
 author: C++Now
 email: admin@ciere.com
 description: "C++Now / Boostcon - A gathering of C++ experts and enthusiasts from around the world."
@@ -18,7 +18,6 @@ favicon:     "/images/favicon.ico"
 aboutme: All about the cpp. # these are shown on aboutme-sidebar.
 aboutme_photo: "" # your photo.
 
-
 ### Site setting:
 ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown when ShowContactInfo == True
 default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
@@ -26,7 +25,6 @@ default_locale: "en" # blog sidebar language set, only include: English(en) and 
 
 feed:
     path: /feed/
-
 
 locales:
     en:
@@ -60,9 +58,8 @@ markdown: kramdown
 highlighter: pygments
 paginate: 5
 
-
 ### Yearly Configuration ###
 
 # The conference year to be home
-current_year: 2017-conference
-current_dates: "May 15, 2017 - May 20, 2017"
+current_year: 2018-conference
+current_dates: "May 6, 2018 - May 11, 2018"
