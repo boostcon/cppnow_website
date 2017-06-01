@@ -32,7 +32,13 @@ $page-width:       1000px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-
+// For photo captions
+.image-caption
+{
+  text-align: center;
+  font-size: .8rem;
+  color: light-grey;
+}
 
 // Using media queries with like this:
 // @include media-query($on-palm) {

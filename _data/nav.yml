@@ -31,8 +31,10 @@
 - title: "Location"
   href: "/location/"
   subcategories:
-    - subtitle: "Map"
+    - subtitle: "Satellite Map"
       subhref: "/documents/map.pdf"
+    - subtitle: "Printable Map"
+      subhref: "/documents/map.png"
     - subtitle: "Ride Share"
       subhref: "/ride_share/"
     - subtitle: "Room Share"
