@@ -44,7 +44,9 @@ _Photograph by Zoetica Ebb. Used with permission._
 | Proposal decisions sent | <strong>February 26nd</strong> |
 | Program online | <strong>March 18th</strong> |
 
-Note: We strongly recommend that you make your submissions as early as possible. During submission evaluation, the Program Committee may have questions about your submission. If you submit early, these questions may be sent to you for clarification. If you submit close to the deadline, it is unlikely that there will be time to offer you the opportunity to provide answers or clarifications.
+<strong>Note</strong>: We strongly recommend that you make your submissions as early as possible.
+
+During submission evaluation, the Program Committee may have questions about your submission. If you submit early, these questions may be sent to you for clarification. If you submit close to the deadline, it is unlikely that there will be time to offer you the opportunity to provide answers or clarifications.
 
 ### Session Topics
 
